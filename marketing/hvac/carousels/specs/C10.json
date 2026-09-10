@@ -1,0 +1,70 @@
+{
+  "id": "C10",
+  "title": "Your slow-season game plan: 3 automations to install now",
+  "post_date": "2026-11-19",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": null,
+      "stat": null,
+      "headline": "Calls are down 30–40% right now. Good.",
+      "body": "That's your setup window. 3 automations to install before the January heat calls and the June wave.",
+      "footer": "The Slow-Season Game Plan",
+      "icon": "❄️"
+    },
+    {
+      "role": "content",
+      "badge": "1",
+      "stat": null,
+      "headline": "1. Missed-call text-back",
+      "body": "Rings out → customer gets a text in 10 seconds: \"Emergency, or call you right back?\" Keeps them off Google.\nCost: usually <$100/mo · Setup: ~15 min (check your current phone system first — it may be built in)\nWhy now: test it on low volume, mistakes are cheap in November.",
+      "footer": null,
+      "icon": "💬"
+    },
+    {
+      "role": "content",
+      "badge": "2",
+      "stat": null,
+      "headline": "2. Estimate follow-up sequence",
+      "body": "Every open quote gets a text on day 1, 3, 7, and 14 — automatically. Most shops follow up once or never; followed-up quotes close at roughly DOUBLE the rate.\nCost: $50–$300/mo depending on your software · Setup: an afternoon\nWhy now: your 90-day dead-quote pile is sitting right there to test on.",
+      "footer": null,
+      "icon": "📅"
+    },
+    {
+      "role": "content",
+      "badge": "3",
+      "stat": null,
+      "headline": "3. Review request on job close",
+      "body": "Tech closes the ticket → customer gets a review link automatically. No more \"forgetting to ask.\" 91% of homeowners check reviews; 56% start on Google.\nCost: often free inside your field software · Setup: ~30 min\nWhy now: every winter job banks reviews for summer's Map Pack fight.",
+      "footer": null,
+      "icon": "⭐"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "The order matters.",
+      "body": "Text-back first (fastest win). Reviews second (compounds daily). Follow-up third (biggest dollars, most setup). All three together: typically under $400/mo — less than one recovered service call.",
+      "footer": null,
+      "icon": "🪜"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "What NOT to do in November.",
+      "body": "Don't buy a $1,000/mo \"all-in-one AI platform\" because a rep called during your slow season. Install the three basics, run them 60 days, look at the numbers in January. Then decide.",
+      "footer": null,
+      "icon": "❌"
+    },
+    {
+      "role": "close",
+      "badge": null,
+      "stat": null,
+      "headline": "Not sure which leak is YOUR biggest?",
+      "body": "That's the audit: I check all 5 leaks, put a dollar figure on each, and hand you the priority order for your shop. DM \"AUDIT\" — free for my next South Florida shops, normally $497.",
+      "footer": "DM \"AUDIT\"",
+      "icon": null
+    }
+  ]
+}

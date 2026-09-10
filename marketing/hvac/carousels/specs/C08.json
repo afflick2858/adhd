@@ -1,0 +1,70 @@
+{
+  "id": "C08",
+  "title": "Missed Call to Booked Job: The Full AI Flow, Step by Step",
+  "post_date": "2026-11-05",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": null,
+      "stat": null,
+      "headline": "MISSED CALL → BOOKED JOB. THE FULL FLOW, STEP BY STEP.",
+      "body": "What actually happens when nobody's there to pick up — and the machine is.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": "9:47 PM",
+      "stat": null,
+      "headline": "9:47 PM — THE CALL",
+      "body": "Homeowner's AC dies on a hot night. She calls the first shop on Google. At most shops this rings out — and 85% of callers won't leave a voicemail. They dial the next name. $500–$1,200, gone in 20 seconds.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": "STEP 1",
+      "stat": null,
+      "headline": "STEP 1 — THE CALL GETS ANSWERED. EVERY TIME.",
+      "body": "AI picks up on ring two, any hour. Gets the essentials: name, address, \"no cool since 6pm,\" system age. Sounds like a calm dispatcher, not a robot maze. Real emergencies get escalated to your on-call number.",
+      "footer": null,
+      "icon": "💬"
+    },
+    {
+      "role": "content",
+      "badge": "STEP 2",
+      "stat": null,
+      "headline": "STEP 2 — IT BOOKS THE JOB",
+      "body": "It reads your real schedule and offers real slots: \"First available is 8–10am tomorrow.\" Books it, confirms by text. No callback lottery in the morning, no lost-to-the-competitor overnight.",
+      "footer": null,
+      "icon": "📅"
+    },
+    {
+      "role": "content",
+      "badge": "STEP 2B",
+      "stat": null,
+      "headline": "STEP 2B — AND IF SHE HANGS UP EARLY?",
+      "body": "Missed-call text-back fires in under a minute: \"Sorry we missed you — this is [Shop] Air. Need service tonight? Reply here.\" Texts get roughly double the response rate of callbacks. The lead stays yours.",
+      "footer": null,
+      "icon": "💬"
+    },
+    {
+      "role": "content",
+      "badge": "STEP 3",
+      "stat": null,
+      "headline": "STEP 3 — YOUR TEAM WAKES UP TO A BOOKED JOB",
+      "body": "CSR opens the day to: job booked, notes attached, customer confirmed. Tech rolls at 8am. After the job: invoice drafted from notes, review request sent automatically. One phone call, zero humans interrupted at dinner.",
+      "footer": null,
+      "icon": "✅"
+    },
+    {
+      "role": "close",
+      "badge": "3 SPOTS — SOUTH FLORIDA",
+      "stat": null,
+      "headline": "THIS FLOW IS FIX #1 IN ALMOST EVERY AUDIT I RUN",
+      "body": "Because it's the biggest leak: ~25%+ of calls missed, $500–$1,200 each. This week only: free AI Profit Audit for 3 South Florida shops (normally $497) — I'll show you YOUR missed-call number. Comment AUDIT or DM me AUDIT.",
+      "footer": "ClearFrequency.ai",
+      "icon": null
+    }
+  ]
+}

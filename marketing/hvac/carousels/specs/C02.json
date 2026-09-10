@@ -1,0 +1,70 @@
+{
+  "id": "C02",
+  "title": "What an AI Receptionist Actually Does (and Doesn't)",
+  "post_date": "2026-09-24",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": null,
+      "stat": null,
+      "headline": "What an AI receptionist ACTUALLY does",
+      "body": "(and what the hype guys won't tell you it doesn't)",
+      "footer": null,
+      "icon": "✅"
+    },
+    {
+      "role": "content",
+      "badge": "24/7",
+      "stat": "27% ➜ 0%",
+      "headline": "✅ DOES: Answer every call. Every time.",
+      "body": "2am no-cool call, Sunday, Christmas, all 5 lines at once. Home-service shops miss ~27% of calls. An AI receptionist misses zero.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "✅ DOES: Ask the right questions",
+      "body": "Name, address, what's the system doing, is anyone in the house without AC. It follows YOUR intake script — and never forgets a question at 11pm.",
+      "footer": null,
+      "icon": "📋"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "✅ DOES: Book the job and text you",
+      "body": "Puts the call on the schedule, texts the customer a confirmation, sends you or your CSR a summary. Caller never hits voicemail — the 85% who'd hang up stay yours.",
+      "footer": null,
+      "icon": "📅"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "❌ DOESN'T: Diagnose a system",
+      "body": "It's not a tech and shouldn't play one. Anything technical gets routed to a human — your on-call tech or a morning callback, your rules.",
+      "footer": null,
+      "icon": "🔧"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "❌ DOESN'T: Replace your CSR",
+      "body": "It catches what she physically can't: after-hours, overflow, both-lines-busy. Your CSR keeps the daytime relationships — and stops getting calls at dinner.",
+      "footer": null,
+      "icon": "👥"
+    },
+    {
+      "role": "close",
+      "badge": null,
+      "stat": null,
+      "headline": "It's not magic. It's a net under the phone.",
+      "body": "At $500–$1,200 per missed call, the question isn't \"is AI cool.\" It's \"how many calls fell through last month?\" Tomorrow I'm posting a real recording of one booking a no-cool call at 11pm. Follow so you hear it.",
+      "footer": null,
+      "icon": "📞"
+    }
+  ]
+}

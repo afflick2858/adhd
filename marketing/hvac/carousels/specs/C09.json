@@ -1,0 +1,70 @@
+{
+  "id": "C09",
+  "title": "5 objections to AI, answered honestly",
+  "post_date": "2026-11-12",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": null,
+      "stat": null,
+      "headline": "5 objections to AI — answered honestly.",
+      "body": "Including where the skeptics are RIGHT.",
+      "footer": "From real conversations with HVAC owners",
+      "icon": null
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "\"My customers hate robots.\"",
+      "body": "Where you're right: some do — especially long-time club members. Keep them with your CSR.\nWhere the math disagrees: ~85% of callers who hit voicemail don't call back. They didn't choose a human over a robot. They chose your competitor over silence.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "\"AI setups screw up calls.\"",
+      "body": "Where you're right: bad ones absolutely do. I've heard a bot quote a price the shop didn't offer. Set-and-forget vendors are real.\nWhere the math disagrees: a properly set-up system is tested on YOUR call types (no-cool, tune-up, \"is the tech coming?\") and reviewed weekly. The tool isn't the risk — the setup is.",
+      "footer": "setup ≠ software",
+      "icon": "🔧"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "\"It's too expensive.\"",
+      "body": "Where you're right: some vendors charge $1,000–$3,000/mo. Built for the big guys — skip them.\nWhere the math disagrees: missed-call text-back runs under $100/mo. One recovered $500 no-cool call pays for 5 months. One recovered $8K–$15K replacement lead pays for years.",
+      "footer": null,
+      "icon": "🏷️"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "\"I'm too small.\"",
+      "body": "Where you're right: you don't need the 20-truck stack. Most tools pitched at you are overkill.\nWhere the math disagrees: 8 missed calls a week at a 2-truck shop ≈ $14K–$20K/yr in walked jobs. Small shop, same leak, zero backup.",
+      "footer": null,
+      "icon": "🚚"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "\"My CSR will think I'm replacing her.\"",
+      "body": "Where you're right: if you install it with no conversation, she will — and morale is a real cost.\nWhere the math disagrees: AI takes the 9pm calls, the overflow, the third line ringing at once. Your CSR keeps the customers who know her by name. Every good setup I've seen made the CSR's day better, not shorter.",
+      "footer": null,
+      "icon": "☕"
+    },
+    {
+      "role": "close",
+      "badge": null,
+      "stat": null,
+      "headline": "Still skeptical? Good. Stay that way.",
+      "body": "Skeptical owners make the best clients — they check the numbers. If you want yours checked, DM me \"AUDIT.\" I'll show you where your shop leaks money before you spend a dime on any tool.",
+      "footer": "DM \"AUDIT\"",
+      "icon": null
+    }
+  ]
+}

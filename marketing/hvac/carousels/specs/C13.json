@@ -1,0 +1,89 @@
+{
+ "id": "C13",
+ "title": "DIY mini-audit: 10 questions to score your shop tonight",
+ "post_date": "2026-12-10",
+ "slides": [
+  {
+   "role": "hook",
+   "badge": "MINI-AUDIT",
+   "stat": null,
+   "headline": "Score your shop in 10 questions. Tonight.",
+   "body": "The DIY mini-audit \u2014 same 5 leaks I check professionally, scored 0\u201320. Grab a beer and a pen. Be honest; nobody's watching.",
+   "footer": null,
+   "icon": "\ud83d\udccb"
+  },
+  {
+   "role": "content",
+   "badge": "LEAK 1",
+   "stat": null,
+   "headline": "LEAK 1: The phone",
+   "body": "Q1. What happens to a call at 7pm on a Friday?\nAnswered & bookable (live or AI) = 2 \u00b7 Answering service takes a message = 1 \u00b7 Voicemail / my cell if I hear it = 0\nQ2. Missed calls \u2014 do you know your number?\nI track it monthly = 2 \u00b7 I could pull it from the phone system = 1 \u00b7 No idea = 0",
+   "footer": "shops average ~27% missed \u00b7 $500\u2013$1,200 each",
+   "icon": "\ud83d\udcde"
+  },
+  {
+   "role": "content",
+   "badge": "LEAK 2",
+   "stat": null,
+   "headline": "LEAK 2: Estimates",
+   "body": "Q3. A quote goes out and the customer goes quiet. What happens on day 3?\nAutomatic text/email goes out = 2 \u00b7 Somebody usually calls, eventually = 1 \u00b7 Nothing. We move on = 0\nQ4. Do you know your 90-day close rate?\nYes, roughly, and we track it = 2 \u00b7 Could figure it out = 1 \u00b7 No = 0",
+   "footer": "typical close 25\u201330% \u00b7 follow-up \u2248 doubles it",
+   "icon": "\ud83d\udccb"
+  },
+  {
+   "role": "content",
+   "badge": "LEAK 3",
+   "stat": null,
+   "headline": "LEAK 3: Reviews",
+   "body": "Q5. Does every completed job trigger a review request?\nAutomatically, every job = 2 \u00b7 Techs ask when they remember = 1 \u00b7 We don't really ask = 0\nQ6. Google your service + city. Are you in the top 3 map results?\nYes = 2 \u00b7 Page one, not map pack = 1 \u00b7 Can't find us = 0",
+   "footer": "91% of homeowners check reviews first",
+   "icon": "\u2b50"
+  },
+  {
+   "role": "content",
+   "badge": "LEAK 4",
+   "stat": null,
+   "headline": "LEAK 4: Admin",
+   "body": "Q7. How many times does one job get typed into different systems?\nOnce \u2014 it flows through = 2 \u00b7 Twice = 1 \u00b7 Three or more (or \"don't ask\") = 0\nQ8. Hours per week you or your spouse spend on paperwork after 6pm?\nBasically zero = 2 \u00b7 A few = 1 \u00b7 It's our whole evening routine = 0",
+   "footer": "typical shop re-types 10+ hrs/week",
+   "icon": "\ud83d\udd58"
+  },
+  {
+   "role": "content",
+   "badge": "LEAK 5",
+   "stat": null,
+   "headline": "LEAK 5: The list",
+   "body": "Q9. When did your past customers last hear from you (not an invoice)?\nScheduled campaigns, at least quarterly = 2 \u00b7 Once in a while = 1 \u00b7 Never = 0\nQ10. What % of your customer list is on a maintenance agreement?\n10%+ = 2 \u00b7 A handful = 1 \u00b7 What maintenance agreements = 0",
+   "footer": "calls drop 30\u201340% in shoulder season \u2014 club revenue doesn't",
+   "icon": "\ud83d\udcc7"
+  },
+  {
+   "role": "content",
+   "badge": null,
+   "stat": null,
+   "headline": "Add it up. /20",
+   "body": "16\u201320: Tight ship. You're in the top tier. Your leaks are drips \u2014 optimize, don't overhaul.\n10\u201315: Normal \u2014 and leaking. Most 2\u201310 truck shops land here. Likely leak: $2K\u2013$5K/month. Fix your two 0-scores first.\n0\u20139: The bucket has holes. Probably $5K\u2013$10K/month walking out. Good news: your first two fixes are cheap (text-back + review automation, under $200/mo combined).",
+   "footer": null,
+   "icon": "\ud83d\udcca"
+  },
+  {
+   "role": "content",
+   "badge": "SCREENSHOT THIS",
+   "stat": null,
+   "compact": true,
+   "headline": "The 5-Leak Mini-Audit \u2014 one card",
+   "body": "[[Score each: yes, automatic = 2 \u00b7 sometimes = 1 \u00b7 no = 0]]\n1. 7pm Friday call gets answered AND booked?\n2. You know your missed-call number?\n3. Quiet quote gets an automatic day-3 follow-up?\n4. You know your 90-day close rate?\n5. Every finished job triggers a review request?\n6. You're in the top 3 map results for your city?\n7. Each job is typed into a system only once?\n8. Zero owner paperwork after 6pm?\n9. Past customers hear from you at least quarterly?\n10. 10%+ of your list on maintenance agreements?\n[[16\u201320: tight ship \u00b7 10\u201315: normal & leaking \u00b7 0\u20139: holes in the bucket]]",
+   "footer": "ClearFrequency.ai \u2014 the 5-Leak Mini-Audit",
+   "icon": null
+  },
+  {
+   "role": "close",
+   "badge": null,
+   "stat": null,
+   "headline": "Scored under 16?",
+   "body": "The full AI Profit Audit is this, professionally: your real call logs, your real quote pile, a dollar figure on every leak, and the 3 fixes ranked by payback. DM \"AUDIT\" or link in bio. December/January slots \u2014 free for my next South Florida shops (normally $497).",
+   "footer": "DM \"AUDIT\"",
+   "icon": null
+  }
+ ]
+}

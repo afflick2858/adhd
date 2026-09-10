@@ -1,0 +1,79 @@
+{
+  "id": "C04",
+  "title": "Rate Your Own Shop: The 5-Leak Self-Audit",
+  "post_date": "2026-10-08",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": "?/20",
+      "stat": null,
+      "headline": "Rate your own shop: the 5-Leak self-audit",
+      "body": "10 questions. 2 points each. Grab a pen — most shops score under 12.",
+      "footer": null,
+      "icon": "📋"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 1",
+      "stat": null,
+      "headline": "LEAK 1 — The phones",
+      "body": "Q1: Does a human (or anything smarter than voicemail) answer your phone at 9pm? (2 pts) · Q2: Do you know your missed-call count from last week? (2 pts) — Why it matters: ~27% of calls go unanswered, $500–$1,200 each, and 85% of voicemail-hitters never call back.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 2",
+      "stat": null,
+      "headline": "LEAK 2 — The estimate pile",
+      "body": "Q3: Can you name your open-estimate dollar total right now? (2 pts) · Q4: Does every quote get 4+ automatic touches (day 1/3/7/14)? (2 pts) — Why: typical shops close 23–30%; ~70% of quoted work walks in silence.",
+      "footer": null,
+      "icon": "📄"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 3",
+      "stat": null,
+      "headline": "LEAK 3 — Reviews",
+      "body": "Q5: Does every completed job trigger an automatic review request? (2 pts) · Q6: Are you within 100 reviews of your biggest local competitor? (2 pts) — Why: 91% of homeowners check reviews; half skip businesses under 20.",
+      "footer": null,
+      "icon": "⭐"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 4",
+      "stat": null,
+      "headline": "LEAK 4 — The office",
+      "body": "Q7: Does each job get typed into only ONE system? (2 pts) · Q8: Is the owner (or spouse) doing paperwork after 8pm less than once a week? (2 pts) — Why: owner hours on $15/hr admin work is the most expensive labor in the company.",
+      "footer": null,
+      "icon": "🕘"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 5",
+      "stat": null,
+      "headline": "LEAK 5 — Feast or famine",
+      "body": "Q9: Do past customers hear from you at least quarterly (tune-ups, maintenance agreements)? (2 pts) · Q10: Could you name your cost per booked job by lead source? (2 pts) — Why: shoulder-season calls drop 30–40%; 40% of owners call cash flow their #1 problem.",
+      "footer": null,
+      "icon": "📉"
+    },
+    {
+      "role": "content",
+      "badge": null,
+      "stat": null,
+      "headline": "Your score",
+      "body": "16–20: tight ship — you're the shop others lose to. · 10–14: solid work, 1–2 expensive leaks. · Under 10: you're likely leaking $3K–$10K/month. Not because you're bad at HVAC — because nobody ever built the catch-net.",
+      "footer": null,
+      "icon": "🚦"
+    },
+    {
+      "role": "close",
+      "badge": null,
+      "stat": null,
+      "headline": "Whatever you scored — now you know where to look.",
+      "body": "This scorecard is the exact skeleton of the AI Profit Audit I run. Tomorrow I'll walk through what the full version looks like in 60 seconds. Save this, score your shop tonight, and comment your number — brave owners only.",
+      "footer": null,
+      "icon": "✅"
+    }
+  ]
+}

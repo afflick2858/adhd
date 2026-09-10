@@ -1,0 +1,70 @@
+{
+  "id": "C01",
+  "title": "5 Places HVAC Shops Leak Money (Scorecard Carousel)",
+  "post_date": "2026-09-17",
+  "slides": [
+    {
+      "role": "hook",
+      "badge": null,
+      "stat": null,
+      "headline": "5 places your HVAC shop is leaking money",
+      "body": "Score yourself as you swipe. Most shops are leaking 3 of the 5.",
+      "footer": null,
+      "icon": "💧"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 1",
+      "stat": "27%",
+      "headline": "LEAK 1 — Missed calls",
+      "body": "Home-service shops miss about 27% of inbound calls. Each one: $500–$1,200. Leaking if: after-hours calls go to voicemail.",
+      "footer": null,
+      "icon": "📞"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 2",
+      "stat": "70% walk",
+      "headline": "LEAK 2 — Dead estimates",
+      "body": "Typical shops close 23–30% of quotes. The other 70% walk — and most never get a single follow-up. Leaking if: you don't know your open-estimate count right now.",
+      "footer": null,
+      "icon": "📋"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 3",
+      "stat": "91%",
+      "headline": "LEAK 3 — Thin reviews",
+      "body": "91% of homeowners check reviews before choosing an HVAC contractor. 40 reviews vs. a competitor's 400 = invisible on the map. Leaking if: your techs \"forget\" to ask.",
+      "footer": null,
+      "icon": "⭐"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 4",
+      "stat": null,
+      "headline": "LEAK 4 — Office admin",
+      "body": "You (or your spouse) doing invoices, scheduling, and paperwork at 9pm. That's owner hours spent on $15/hr work. Leaking if: the same job gets typed into 3 different systems.",
+      "footer": null,
+      "icon": "🕘"
+    },
+    {
+      "role": "content",
+      "badge": "LEAK 5",
+      "stat": "40%",
+      "headline": "LEAK 5 — Feast or famine",
+      "body": "Shoulder-season calls drop 30–40%. Overhead doesn't. 40% of HVAC owners say cash flow is problem #1. Leaking if: your only slow-season plan is \"hope.\"",
+      "footer": null,
+      "icon": "📉"
+    },
+    {
+      "role": "close",
+      "badge": null,
+      "stat": null,
+      "headline": "Scored 3 or more? You're normal. And leaking.",
+      "body": "I'm breaking down every leak — with dollar math — over the next few weeks. Follow so you don't miss your leak. Save this as your checklist.",
+      "footer": null,
+      "icon": "✅"
+    }
+  ]
+}
