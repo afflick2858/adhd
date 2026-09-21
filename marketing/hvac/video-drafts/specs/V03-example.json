@@ -1,0 +1,63 @@
+{
+ "id": "V03",
+ "audio": "(example)",
+ "audio_end": 47.83,
+ "starts": [
+  0,
+  6.51,
+  12.28,
+  19.42,
+  24.99,
+  29.67,
+  35.85,
+  40.12,
+  44.82
+ ],
+ "cards": [
+  [
+   "",
+   "<span class='o'>85%</span> won't leave a voicemail",
+   "they hang up and call your competitor"
+  ],
+  [
+   "",
+   "&ldquo;Thanks for calling. Leave a message.&rdquo;",
+   "what your voicemail actually says"
+  ],
+  [
+   "",
+   "= &ldquo;they <span class='o'>can't help me</span> right now&rdquo;",
+   "a homeowner with no AC, in Florida"
+  ],
+  [
+   "",
+   "back to Google &#10132; <span class='o'>taps the next number</span>",
+   "no message left"
+  ],
+  [
+   "THE MATH",
+   "10 voicemail calls <span class='o'>a week</span>",
+   "after hours"
+  ],
+  [
+   "THE MATH",
+   "3 booked &times; $500 = <span class='o'>$1,500/week</span>",
+   "even at just 3 of 10"
+  ],
+  [
+   "THE MATH",
+   "&asymp; <span class='o'>$6,000 a month.</span> Gone quietly.",
+   ""
+  ],
+  [
+   "",
+   "Your voicemail is <span class='o'>forwarding customers</span>",
+   "not taking messages"
+  ],
+  [
+   "DO THIS",
+   "Go listen to <span class='o'>YOUR</span> greeting",
+   "save this &middot; ClearFrequency.ai"
+  ]
+ ]
+}

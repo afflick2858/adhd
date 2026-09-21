@@ -1,0 +1,57 @@
+{
+ "id": "V02",
+ "audio": "/tmp/.../v02-vo.mp3 (example only)",
+ "audio_end": 46.07,
+ "starts": [
+  0,
+  7.74,
+  13.02,
+  17.55,
+  21.1,
+  28.06,
+  35.48,
+  40.97
+ ],
+ "cards": [
+  [
+   "",
+   "LAST NIGHT: a <span class='o'>$1,200</span> call",
+   "your phone rang at 9pm"
+  ],
+  [
+   "",
+   "Her AC quit. <span class='o'>85&deg;</span> inside.",
+   "kids can't sleep"
+  ],
+  [
+   "",
+   "&ldquo;AC repair near me&rdquo;",
+   "she calls the first shop. you."
+  ],
+  [
+   "",
+   "Ring... ring... <span class='o'>voicemail</span>",
+   "does she leave a message?"
+  ],
+  [
+   "",
+   "<span class='o'>85%</span> won't leave a message",
+   "she dials the next name on the list"
+  ],
+  [
+   "",
+   "Your competitor <span class='o'>got the job</span>",
+   "$500&ndash;$1,200 &middot; sometimes a lot more"
+  ],
+  [
+   "",
+   "You never even <span class='o'>knew she called</span>",
+   "that's most nights"
+  ],
+  [
+   "DO THIS",
+   "Check YOUR call log <span class='o'>after 6pm</span>",
+   "count them &middot; ClearFrequency.ai"
+  ]
+ ]
+}
