@@ -5,6 +5,7 @@ Built for Ann Kelly / ClearFrequency.ai to land the first paid HVAC engagement i
 | File | What it is |
 |---|---|
 | `FL_HVAC_Call_List.xlsx` | The Monday call list. Tabs: **Call List Monday** (Tier A + B, with owner, phone, opening line), **All Prospects** (everything researched, incl. not-a-fit and why), **Already Touched** (Bee Cool, FMBS, Paradise, Art, June cold emails), **Pain to Offer Map**, **Scoreboard** (auto-counts your outcomes). |
+| `call-sheet.html` | Phone-friendly version of the Monday call list, published privately at https://claude.ai/artifact/QSXQYHJrESfbQ7RuXG9QC6 (filters by tier and county, copyable numbers, tap-to-call, a called/outcome log that stays on your device). A Google Sheet copy could not be created because the Drive connector in this session has no write permission; open the .xlsx in Google Sheets or Excel instead. |
 | `FIRST-CLIENT-PLAYBOOK.md` | The path: offer ladder and prices, pain points in the owner's words, Monday minute-by-minute, phone script, voicemail, text, email, objections, the Leak Check call, and the 30-day plan. |
 | `research/pain-points-south-florida.md` | Ranked pain points with numbers and sources, South Florida specifics (PE roll-ups, permits, 489.119, wages, refrigerant). |
 | `research/owner-language.md` | What owners actually say, phrase bank, top objections and answers, when to call. |
