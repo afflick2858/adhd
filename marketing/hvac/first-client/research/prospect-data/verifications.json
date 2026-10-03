@@ -361,5 +361,815 @@
    "https://ezlocal.com/fl/pompano-beach/air-conditioning-contractor/094076621/reviews",
    "https://eastcoastservicesinc.net/ac-repair/ac-repair-pompano-beach.html"
   ]
+ },
+ {
+  "name": "Carib Air Conditioning Services Inc",
+  "phone_status": "confirmed with caveat \u2014 (786) 393-0479 appears on the Yelp listing for 840 Foster Rd, on Nextdoor and on the company's own site; however the BBB profile (and the Yelp listing for 839 Foster Rd) give a different primary landline, (954) 455-1677, with alternates (954) 455-2733 and (954) 455-1642 and fax (954) 455-1679. Dial (786) 393-0479 first, fall back to (954) 455-1677.",
+  "phone_correct": "(786) 393-0479 (Yelp/Nextdoor/company site); backup (954) 455-1677 (BBB primary)",
+  "address_status": "mismatch (minor, house number) \u2014 the official DBPR license address and the BBB profile both say 839 Foster Rd; 840 appears only on Yelp/Nextdoor",
+  "address_correct": "839 Foster Rd, Hallandale Beach, FL 33009 (DBPR license + BBB); 840 Foster Rd per Yelp/Nextdoor",
+  "owner_status": "confirmed",
+  "owner_correct": "Andrew Septimus James (BBB lists him as 'Mr. Andrew James')",
+  "owner_title_correct": "President (BBB principal); also the qualifying Certified Air Conditioning Contractor, license CAC056858, active, licensed 01/07/1994, expires 08/31/2026",
+  "independent_status": "confirmed independent \u2014 single-location owner-operator; no acquisition or partnership results in any search",
+  "extra_findings": "BBB NOT accredited and BBB has no rating (insufficient information); BBB business-start date 1/1/1994, BBB file opened 8/9/2005; Florida corporation P99000073873 (incorporated 1999). BuildZoom score 93 (top 27% of FL contractors) but zero reviews there; no Google or Yelp star rating/review count surfaced in any snippet, so online presence is thin. Email caribair@aol.com. Do NOT confuse with 'Carib Air Condition and Heating' (Bronx, NY, principal George Christian) or caribairconditioning.com, which did not resolve to this Hallandale company in any snippet.",
+  "sources": [
+   "https://www.bbb.org/us/fl/hallandale/profile/air-conditioning-contractor/carib-air-conditioning-services-0633-23006634",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=F41D3744AB2E2ADE9482A8DD1E6AB089",
+   "https://www.yelp.com/biz/carib-air-conditioning-services-hallandale-beach-2",
+   "https://www.yelp.com/biz/carib-air-conditioning-hallandale-beach-2",
+   "https://nextdoor.com/pages/carib-air-conditioning-services-hallandale-beach-fl/",
+   "https://www.buildzoom.com/contractor/carib-air-conditioning-services",
+   "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=CARIBAIRCONDITIONINGSERVICES+P990000738730&aggregateId=domp-p99000073873-b998bcbf-5f42-43e6-bbbd-4efd6ca55cff&searchTerm=CARIBAID+INC&listNameOrder=CARIBAID+N240000109920"
+  ]
+ },
+ {
+  "name": "East Coast Air Conditioning & Refrigeration, Inc.",
+  "phone_status": "confirmed \u2014 (954) 909-5884 on BBB and Yelp; BBB also lists a second line (954) 466-9596",
+  "phone_correct": "(954) 909-5884; alt (954) 466-9596",
+  "address_status": "confirmed \u2014 BBB, D&B and Yelp all show 991 S State Road 7, Ste E3, Plantation, FL 33317-4563",
+  "address_correct": "991 S State Road 7, Ste E3, Plantation, FL 33317-4563",
+  "owner_status": "filled (was unknown) \u2014 owner identified from BBB principal, LinkedIn and ZoomInfo",
+  "owner_correct": "Scott Smith",
+  "owner_title_correct": "President/Owner (BBB principal); founder \u2014 started the company in 2007 and still runs it (company site, LinkedIn linkedin.com/in/scott-smith-3a2a58111, ZoomInfo s***@replacemyair.com)",
+  "independent_status": "confirmed independent, family-owned \u2014 no acquisition or partnership results. CAUTION: do not confuse with East Coast Mechanical (ECM Air Conditioning), a different South Florida HVAC company acquired by Air Pros USA (2022) and then Cascade Services (2025).",
+  "extra_findings": "Google 4.7/5, Facebook 4/5, BBB A+ and accredited since 12/8/2021; incorporated 5/2/2007 (Sunbiz P07000053166), business start 5/30/2007; 17 Yelp reviews, 144 reviews on BestProsInTown, HomeAdvisor profile. Marketing-active: issued a PR Newswire / 24-7 Press Release announcement (March 2024) promoting AC repair in Plantation. Hours Mon\u2013Fri 8am\u20138pm, closed weekends despite advertising 24/7 emergency service. Scott Smith's LinkedIn location is Fort Lauderdale.",
+  "sources": [
+   "https://www.bbb.org/us/fl/plantation/profile/air-conditioning-contractor/east-coast-air-conditioning-refrigeration-inc-0633-92004881",
+   "https://www.yelp.com/biz/east-coast-air-conditioning-and-refrigeration-plantation-3",
+   "https://www.dnb.com/business-directory/company-profiles.east_coast_air_conditioning_and_refrigeration_inc.b5fe212b29060d048ac416e8b8358d23.html",
+   "https://www.linkedin.com/in/scott-smith-3a2a58111/",
+   "https://www.zoominfo.com/p/Scott-Smith/3768015789",
+   "https://www.prnewswire.com/news-releases/east-coast-air-conditioning-announces-reliable-and-affordable-ac-repair-in-plantation-fl-302086112.html",
+   "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=EASTCOASTAIRCONDITIONINGREFRIG+P070000531660&aggregateId=domp-p07000053166-6cbf0bb9-df9e-4ad1-9b63-d48dfb22c28d&listNameOrder=EASTCOASTAGENCY+1102940",
+   "https://www.achrnews.com/articles/147392-air-pros-usa-acquires-east-coast-mechanical-ecm-air-conditioning"
+  ]
+ },
+ {
+  "name": "Absolute A/C & Duct Repairs",
+  "phone_status": "confirmed \u2014 (954) 438-9907 on BBB, Yelp and the cmac.ws contractor directory; alternates (305) 733-7699 (BBB/Yelp) and (305) 443-9527 (Yelp)",
+  "phone_correct": "(954) 438-9907; alt (305) 733-7699",
+  "address_status": "filled (was unknown) \u2014 BBB, Yelp, Yellow Pages and Manta agree",
+  "address_correct": "11510 NW 15th Ct, Pembroke Pines, FL 33026 (appears to be a residence / home-based)",
+  "owner_status": "confirmed and completed \u2014 last name found",
+  "owner_correct": "Aileen Martinez (Sunbiz/BuildZoom: Martinez, Aileen Marie)",
+  "owner_title_correct": "President (BBB principal) / owner",
+  "independent_status": "confirmed independent \u2014 no acquisition or partnership results; woman-owned; FPL Participating Independent Contractor. Legal name is Absolute A/C & Duct Repair, Inc. (singular 'Repair').",
+  "extra_findings": "'Since 1992' is the owner's time in the HVAC trade, not the company: the corporation was incorporated 1/27/2005 (BBB business start 2/16/2006; Yelp says established 2007) \u2014 pitch should say ~20 years for the company, 30+ for the owner. Reputation is uneven: Yelp 2.6 stars on 12 reviews (mixed) vs Angi ~4.8 with a deep review history. BBB NOT accredited (file opened 10/10/2014). Brands herself 'the AC Girl' (facebook.com/theacgirl). Hours Mon\u2013Fri 8\u20136, Sat 8\u201312. Active DBPR license under the company name. Also offers attic insulation. Strong reputation-management/review-generation angle given the Yelp score.",
+  "sources": [
+   "https://www.bbb.org/us/fl/pembroke-pines/profile/air-conditioning-repair/absolute-ac-duct-repair-inc-0633-90120017",
+   "https://www.yelp.com/biz/absolute-a-c-and-duct-repairs-pembroke-pines-2",
+   "https://www.yelp.com/biz/absolute-ac-and-duct-repair-pembroke-pines",
+   "https://local.yahoo.com/info-192759697-absolute-a-c-duct-repairs-pembroke-pines/",
+   "https://air-conditioning-repair-services.cmac.ws/absolute-a-c-duct-repair/8486/",
+   "https://www.buildzoom.com/contractor/absolute-ac-duct-repair-inc",
+   "https://www.facebook.com/theacgirl/",
+   "https://www.angi.com/companylist/us/fl/pembroke-pines/absolute-ac-and-duct-repairs-reviews-7626010.htm",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=CF74316BA5A7CBC15946C5C6E1146E15"
+  ]
+ },
+ {
+  "name": "Cajun Bear AC Repair LLC",
+  "phone_status": "confirmed \u2014 (954) 850-1204 on chamberofcommerce.com and D&B/directory listings",
+  "phone_correct": "(954) 850-1204",
+  "address_status": "confirmed \u2014 BBB, D&B, Hotfrog and Sunbiz show 1531 NW 7th Ave, Fort Lauderdale, FL 33311-5557 (chamberofcommerce.com's '33321' zip is a directory error)",
+  "address_correct": "1531 NW 7th Ave, Fort Lauderdale, FL 33311-5557",
+  "owner_status": "confirmed",
+  "owner_correct": "Richard Paul Comment",
+  "owner_title_correct": "President (BBB principal); DBPR qualifying Certified Air Conditioning Contractor (licensed 02/08/2021, current/active, expires 08/31/2026). Second principal: Thomas J. Fels, listed as Manager of the LLC on Sunbiz/bisprofiles with a LinkedIn tied to Cajun Bear \u2014 may handle the business side or answer the phone.",
+  "independent_status": "confirmed independent \u2014 no acquisition or partnership results; owner-operated LLC formed 12/29/2020 (Sunbiz L21000010157)",
+  "extra_findings": "Young company (LLC Dec 2020, licensed Feb 2021) with strong reviews: Google 5.0 on ~391 reviews (per chamberofcommerce.com), Yelp 4.7 on 15 reviews, Nextdoor 21 faves (praised for answering on a Saturday and arriving within 15 minutes). Hours Mon\u2013Fri 8:00\u201317:30, closed weekends despite emergency-service claims. Two Facebook pages and two website domains in directories (cajunbearacrepair.com / cajunbearacrepairfl.com). BBB profile exists; accreditation status not shown in snippets. Claims 20+ years industry experience.",
+  "sources": [
+   "https://www.bbb.org/us/fl/fort-lauderdale/profile/air-conditioning-contractor/cajun-bear-ac-repair-0633-92054053",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?id=4D3F4D9B1003ED62EC84EE86B349341E",
+   "https://www.dnb.com/business-directory/company-profiles.cajun_bear_ac_repair_llc.fb82ca8dcfd2581343357a9631b53897.html",
+   "https://bisprofiles.com/fl/cajun-bear-ac-repair-l21000010157",
+   "https://www.chamberofcommerce.com/business-directory/florida/fort-lauderdale/hvac-contractor/2017397933-cajun-bear-ac-repair",
+   "https://www.yelp.com/biz/cajun-bear-ac-repair-fort-lauderdale",
+   "https://nextdoor.com/pages/cajun-bear-ac-repair-fort-lauderdale-fl/",
+   "https://www.hotfrog.com/company/cdb4367966cca7aba0a48be7e69f34e6/cajun-bear-ac-repair/fort-lauderdale/contractor-equipment-services",
+   "https://www.linkedin.com/in/tjfels/"
+  ]
+ },
+ {
+  "name": "Shoreline Air Systems Inc",
+  "phone_status": "confirmed \u2014 (954) 485-3117 on BBB, Yellow Pages and Superpages; fax (954) 485-3144",
+  "phone_correct": "(954) 485-3117",
+  "address_status": "confirmed \u2014 BBB, Yellow Pages, Superpages, Yelp",
+  "address_correct": "3801 NW 49th St, Tamarac, FL 33309-3305",
+  "owner_status": "confirmed (name); title clarified",
+  "owner_correct": "Donald A. (Allen) Rist",
+  "owner_title_correct": "President (ZoomInfo/LinkedIn) and DBPR license qualifier CAC1815384 (licensed 03/12/2007, expires 08/31/2026). NOTE: the BBB profile lists 'Mr. Don Rist' as Service Solutions Manager and 'Mr. Scott Rist' as Manager of Operations \u2014 Scott Rist (likely next-generation family) runs day-to-day operations and may be the gatekeeper on a call.",
+  "independent_status": "confirmed independent \u2014 family-owned since 10/2/1984; no acquisition/merger results (hits for 'Shoreline Aviation' and 'Shoreline Equity Partners' are unrelated companies)",
+  "extra_findings": "BBB A+ and accredited since 6/22/2009; ~10\u201319 employees (ZoomInfo) \u2014 the largest and most commercial of the eight (cooling towers, heat exchangers, pumps, maintenance agreements, Broward/Dade/Palm Beach). shorelineair.com is confirmed as the real company domain via ZoomInfo's email pattern (d***@shorelineair.com). A licensed.contractors directory page names a 'Tom Rist' \u2014 probably another family member or a directory error. One Yellow Pages review praises 'Don Rist and his staff' since 2009.",
+  "sources": [
+   "https://www.bbb.org/us/fl/tamarac/profile/air-conditioning-contractor/shoreline-air-systems-inc-0633-92008609",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=38C18CC065A604900481D2063464CA2A",
+   "https://www.zoominfo.com/p/Donald-Rist/2375080309",
+   "https://www.zoominfo.com/c/shoreline-air-systems-inc/369802121",
+   "https://www.linkedin.com/in/donald-rist-08836b20/",
+   "https://www.yellowpages.com/tamarac-fl/mip/shoreline-air-systems-inc-464436926",
+   "https://www.superpages.com/tamarac-fl/bpp/shoreline-air-systems-inc-464436926",
+   "https://www.yelp.com/biz/shoreline-air-systems-tamarac",
+   "https://www.licensed.contractors/florida/tamarac/shoreline-air-systems-inc-354917.html"
+  ]
+ },
+ {
+  "name": "123 Air Repair Inc",
+  "phone_status": "confirmed \u2014 754-234-7951 on Yahoo Local, citytocitymarket, vymaps and hub.biz",
+  "phone_correct": "(754) 234-7951",
+  "address_status": "confirmed (zip added) \u2014 hub.biz, FederalPay PPP record and Cortera all show 4132 Inverrary Blvd, Lauderhill, FL 33319",
+  "address_correct": "4132 Inverrary Blvd, Lauderhill, FL 33319 (Inverrary Blvd is a residential condo corridor \u2014 likely home-based)",
+  "owner_status": "confirmed",
+  "owner_correct": "Shalom Tweg",
+  "owner_title_correct": "President (BBB principal)",
+  "independent_status": "confirmed independent \u2014 very small S-corporation; no acquisition or partnership results",
+  "extra_findings": "Very small operation: PPP loan of only $4,106 (approved 5/21/2020, Celtic Bank) retaining 2 jobs, implying ~$20k of 2019 payroll \u2014 essentially a one- or two-person shop. BBB NOT accredited; business started 2/17/2014. Reviews are split: Google 4.7 (69 reviews) and Porch 4.6 (60) vs Yahoo 1.5 (11) with older Groupon no-show complaints. No company website found (only Thumbtack, Alignable, hub.biz, Porch, Yahoo listings). Claims 15+ years experience, family owned and operated.",
+  "sources": [
+   "https://www.bbb.org/us/fl/fort-lauderdale/profile/air-conditioning-contractor/123-air-repair-inc-0633-92052981",
+   "https://www.federalpay.org/paycheck-protection-program/123-air-repair-inc-lauderhill-fl",
+   "https://local.yahoo.com/info-185639385-123-air-repair-lauderhill/",
+   "https://123-air-repair.hub.biz/",
+   "https://www.citytocitymarket.com/123-air-repair-lauderhill",
+   "https://porch.com/lauderhill-fl/hvac-contractors/123-air-repair/pp",
+   "https://start.cortera.com/company/research/l9p5mxo8m/123-air-repair-inc/",
+   "https://www.alignable.com/fort-lauderdale-fl/123-air-repair-2"
+  ]
+ },
+ {
+  "name": "AIRCO Cooling & Heating Inc",
+  "phone_status": "confirmed \u2014 (954) 925-1213 on BBB, the Yelp 'Hollywood' listing and Yahoo Local. A second Yelp listing (2345 SW 34th St, Fort Lauderdale 33312) shows (954) 797-7663 \u2014 likely an older location/number; dial 925-1213 first.",
+  "phone_correct": "(954) 925-1213; alt/older (954) 797-7663",
+  "address_status": "mismatch / corrected \u2014 'Hollywood, FL 33020' is only the Yelp listing's city; BBB, Yahoo Local and BuildZoom all file the company at 2100 NE 56th Pl, Fort Lauderdale, FL 33308 (appears residential). A second Yelp listing shows 2345 SW 34th St, Fort Lauderdale, FL 33312.",
+  "address_correct": "2100 NE 56th Pl, Fort Lauderdale, FL 33308 (BBB / Yahoo Local / BuildZoom); Yelp also lists 2345 SW 34th St, Fort Lauderdale, FL 33312",
+  "owner_status": "filled (was unknown) \u2014 BBB principals identified",
+  "owner_correct": "Thomas Raby (President) and Valoree J. Raby (Vice President); BuildZoom shows the DBPR license CAC058337 (expires 8/31/2026) held under Raby, Valoree J.",
+  "owner_title_correct": "Thomas Raby \u2013 President; Valoree Raby \u2013 Vice President (BBB)",
+  "independent_status": "confirmed independent \u2014 family-operated; founded 1970 and bought by the current owners in 1990; no acquisition results. Unrelated companies with similar names: AirCo (aircoacflorida.com, Hobe Sound FL) and AirCo DFW (Texas).",
+  "extra_findings": "BBB NOT accredited (file opened 5/24/2002); Broward County business tax license 183-1113; Sunbiz document L97828, status Active; advertises 24/7 hours; also does water heaters and pool repair; no company website found; Angi listing filed under Ft Lauderdale. The Rabys have owned it 35+ years, so they are likely at or near retirement age \u2014 succession/exit-planning angle; the business address being a residence suggests a very lean operation.",
+  "sources": [
+   "https://www.bbb.org/us/fl/fort-lauderdale/profile/air-conditioning-contractor/airco-cooling-heating-inc-0633-30002213",
+   "https://www.yelp.com/biz/airco-cooling-and-heating-hollywood",
+   "https://www.yelp.com/biz/airco-cooling-and-heating-fort-lauderdale",
+   "https://local.yahoo.com/info-14204970-airco-cooling-heating-fort-lauderdale/",
+   "https://www.buildzoom.com/contractor/airco-cooling-heating-inc",
+   "https://www.angi.com/companylist/us/fl/ft-lauderdale/airco-cooling-and-heating-inc-reviews-6325637.htm",
+   "https://www.homeyou.com/airco-cooling-heating-fort-lauderdale-fl-9547977663"
+  ]
+ },
+ {
+  "name": "Ask For Cool Air Conditioning, Inc.",
+  "phone_status": "filled (was unknown) \u2014 same number on BBB, Yahoo Local, the company's X/Twitter post and its Indeed job ad",
+  "phone_correct": "(954) 678-6764",
+  "address_status": "filled (was unknown) \u2014 BBB, Yahoo Local and the Indeed job ad agree",
+  "address_correct": "10170 NW 47th St, Sunrise, FL 33351 (the 2016 Sunbiz incorporation filing used 2641 N Flamingo Rd, Apt 2208N, Sunrise 33323 \u2014 old address)",
+  "owner_status": "filled (was unknown). Spelling matters: FINDLEY, not Finley (one Yahoo-derived summary misspelled it).",
+  "owner_correct": "Nigel James Findley",
+  "owner_title_correct": "President (BBB principal; ZoomInfo n***@askforcool.com); DBPR qualifying Certified Air Conditioning Contractor. Also Juliana Findley \u2013 Vice President and Jasmine Dottin \u2013 Director (BBB).",
+  "independent_status": "confirmed independent, locally owned \u2014 no acquisition or partnership results; 'Trane Comfort Specialist' is a dealer designation, not a franchise",
+  "extra_findings": "Growing and hiring: active Glassdoor/Indeed posting for an HVAC Service Technician ($23\u201326/hr, 5+ yrs experience, 'average tech makes $80k', company vehicle, iPad, gas card). BBB A+ and accredited since 4/19/2021; incorporated 2016 (Sunbiz P16000043140). Strong reviews: 5-star Yelp, 5.0 on 61 website reviews, 416+ TrustIndex reviews, 4.5 on Nicelocal. Listed in The Blue Book (commercial subcontractor) and on Nextdoor; active on X/Twitter (@AskForCoolAC). Founder claims 20+ years in the trade; services all major brands (Trane, Rheem, Goodman, Carrier).",
+  "sources": [
+   "https://www.bbb.org/us/fl/sunrise/profile/air-conditioning-contractor/ask-for-cool-air-conditioning-inc-0633-90536998",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=44DB6CED8BEBBFA16934593F88EF9F3C",
+   "https://local.yahoo.com/info-232335890-ask-for-cool-air-conditioning-sunrise/",
+   "https://www.zoominfo.com/p/Nigel-Findley/8639208895",
+   "https://x.com/AskForCoolAC/status/1795500177312117054",
+   "https://www.glassdoor.com/job-listing/hvac-service-technician-ask-for-cool-air-conditioning-inc-JV_IC1166212_KO0,23_KE24,57.htm?jl=1009871149921",
+   "https://www.indeed.com/viewjob?jk=d0fe0868fd4ef364",
+   "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=ASKFORCOOLAIRCONDITIONING+P160000431400&aggregateId=domp-p16000043140-8ef4964c-09a1-4b68-bdba-de13139843bd&searchTerm=ASK+FLORIDA,+LLC&listNameOrder=ASKFLORIDA+L050000167040",
+   "https://www.thebluebook.com/iProView/1866284/ask-for-cool-air-conditioning-inc/subcontractors/locations-contacts/",
+   "https://www.trustindex.io/reviews/askforcool.com"
+  ]
+ },
+ {
+  "name": "American HVAC Inc",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 772-0000 (BBB, Yahoo Local, YellowPages, CentralIndex all agree)",
+  "address_status": "confirmed",
+  "address_correct": "2560 N Powerline Rd Ste 205, Pompano Beach, FL 33069-1057 (BBB). Second location / 'corporate office': 1500 W Cypress Creek Rd Ste 505, Fort Lauderdale, FL 33309 (BBB, D&B, YellowPages).",
+  "owner_status": "name confirmed; title mismatch",
+  "owner_correct": "Nicholas (Nick) Sindicich III",
+  "owner_title_correct": "President / Owner and license qualifier (CAC014188). BBB principal = 'Mr. Nicholas Sindicich III'; Blue Book, FALA vendor bio, Who's Who 2019 and ZoomInfo all say President; DBPR lists 'SINDICICH, NICHOLAS III dba AMERICAN HVAC, INC.' No snippet supports 'VP' or 'registered agent' as his title.",
+  "independent_status": "confirmed independent, family-run; no acquisition, PE, or partnership hits",
+  "extra_findings": "COMMERCIAL-focused shop (commercial A/C & refrigeration, maintenance agreements, retrofits, energy management; FAA apartment-association and FALA assisted-living vendor), so pitch should be B2B not residential. BBB A+ but NOT accredited. Date conflict: BBB says business started 7/31/1979 and incorporated 6/8/2000 (Sunbiz P00000057857); FALA bio says company founded 1999 by Nick, who has held a Class A license since 1976 -- '1979' likely refers to his career, not the company. Actively hiring HVAC Service Technicians (Indeed postings, Pompano 33069). Nick is ex-Carrier/York tech and taught the ACCA apprenticeship program -- technically minded owner. A 'Brenda Lee Sindicich' appears alongside him in one directory (likely spouse/officer) with no title surfaced. Consider dialing the Cypress Creek corporate office if Powerline Rd does not answer (same main number).",
+  "sources": [
+   "https://www.bbb.org/us/fl/pompano-beach/profile/air-conditioning-contractor/american-hvac-inc-0633-90549063",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=5806D25C38C2B4E3B970845DEEF14DF2",
+   "https://www.thebluebook.com/iProView/792843/american-hvac-inc/subcontractors/locations-contacts/",
+   "https://www.fala.org/vendors-guide/nick-sindicich",
+   "https://www.faahq.org/directory/american-hvac-inc",
+   "https://local.yahoo.com/info-224744866-american-hvac-inc-pompano-beach/",
+   "https://www.yellowpages.com/fort-lauderdale-fl/mip/american-hvac-457323674",
+   "https://www.indeed.com/viewjob?jk=1a006be386c9d20b",
+   "https://www.zoominfo.com/p/Nicholas-Sindicich/1517677303"
+  ]
+ },
+ {
+  "name": "The Best Air Conditioning Company",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 341-9722 (BBB, Yelp, Yahoo Local, Facebook)",
+  "address_status": "confirmed",
+  "address_correct": "3685 NW 124th Ave, Coral Springs, FL 33065-2409 (BBB, Yelp). DBPR license location is 3703 NW 124th Ave (adjacent unit); mailing PO Box 8841, Coral Springs, FL 33075.",
+  "owner_status": "previously blank -- now identified and confirmed (BBB + DBPR)",
+  "owner_correct": "Christopher R. (Raymond) Messier; Lynn Messier is Vice President",
+  "owner_title_correct": "President (BBB principal) and DBPR license holder/qualifier for 'THE BEST AIR CONDITIONING COMPANY' (CAC1817825; earlier registered license RA13067536). Reviews mention 'Chris' and 'Ray Messier' -- probably the same person (Christopher Raymond) but not confirmed.",
+  "independent_status": "confirmed independent, family-owned (Messier); no acquisition or partnership hits",
+  "extra_findings": "NOT BBB accredited; BBB file opened 10/15/2001 and BBB lists business start 2/14/1991 -- the 'since 1970' claim is marketing (possibly family lineage). A second licensed entity exists: 'The Best Air Conditioning Company of Monroe County' (DBPR construction business license issued 6/25/2014, same PO Box 8841) -- indicates a Florida Keys/Monroe County operation. Ratings are middling: Yelp 3.9 (18 reviews), Yahoo 4.0 (18), Birdeye 4.6 (28), Angi listing present. Hours Mon-Sat 8am-5pm (no Sunday). Website copy oddly says 'Southwest Florida's most trusted' -- template text, a possible web-quality talking point.",
+  "sources": [
+   "https://www.bbb.org/us/fl/coral-springs/profile/air-conditioning-contractor/the-best-air-conditioning-company-0633-90604239",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=6171CB8DE8F64CD84D6D3DCD5DCF735D",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=7A7B37C6FD0E2A2456247A4FCC54E0DF",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=C2AA794B11616A5B5542ED0E35876F58",
+   "https://www.yelp.com/biz/best-air-conditioning-coral-springs",
+   "https://reviews.birdeye.com/the-best-air-conditioning-co-166934554142698",
+   "https://www.angi.com/companylist/us/fl/coral-springs/best-air-conditioning-reviews-250314.htm"
+  ]
+ },
+ {
+  "name": "24/7 A/C Inc",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 771-1001 (Yelp, directories, company site). Fax 954-771-1002; email admin@247acservices.com.",
+  "address_status": "confirmed",
+  "address_correct": "11311 NW 27 Street, Plantation, FL 33323 (Yelp; matches Sunbiz principal address for 24/7 A/C, INC.)",
+  "owner_status": "unverifiable (partial)",
+  "owner_correct": "First name only: Yelp lists the business owner as 'Jason J.' -- no last name published anywhere. Sunbiz (doc P08000055406) shows registered agent 'Jennifer Gately' (an RA is not necessarily an owner). ZoomInfo lists Jerard Jacobs and Juan Sorensen with @247acservices.com emails, roles not shown. No DBPR qualifier name surfaced. Do NOT assume a surname; ask for 'the owner' or 'Jason' on the call.",
+  "owner_title_correct": "Owner / license holder (company states the owner-license holder is on site for every install). Legal name 24/7 A/C, INC.",
+  "independent_status": "no acquisition or partnership hits; self-described family owned and operated; very small footprint",
+  "extra_findings": "Founding-date inconsistency: marketing says 2006, Sunbiz incorporation is 6/5/2008, one directory says 2009. Tiny online footprint: Yelp 5.0 from only 4 reviews; no BBB profile found. Differentiator: offers video-chat A/C diagnosis by senior techs. Runs a mirror domain southfloridaacrepairs.com with identical copy. Open 24/7. Serves Plantation, Sunrise, Fort Lauderdale area. Low confidence on decision-maker identity -- plan to qualify on the call.",
+  "sources": [
+   "https://www.yelp.com/biz/24-7-ac-plantation-2",
+   "https://www.247acinc.com/",
+   "https://southfloridaacrepairs.com/",
+   "https://www.zoominfo.com/p/Jerard-Jacobs/-904430368",
+   "https://www.247acinc.com/service-page/video-chat-a-c-diagnosis"
+  ]
+ },
+ {
+  "name": "Southeast Cooling and Heating",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 224-5033 (BBB, Yelp, DBPR)",
+  "address_status": "confirmed with discrepancy",
+  "address_correct": "Yelp lists 4777 NW 103rd Ave, Sunrise, FL 33351 (add ZIP 33351). However BBB, DBPR and Sunbiz all list the official/principal address as 11110 W Oakland Park Blvd Ste 357, Sunrise, FL 33351-6808 (suite number suggests a mailbox). Use 4777 NW 103rd Ave for physical, 11110 W Oakland Park Blvd Ste 357 for mail.",
+  "owner_status": "previously partial ('Todd') -- now fully identified and confirmed",
+  "owner_correct": "Todd G. Fitzgerald",
+  "owner_title_correct": "President and registered agent (Sunbiz P13000072940); DBPR license holder dba 'SOUTHEAST COOLING AND HEATING INC.'; BBB principal; LinkedIn profile 'Todd Fitzgerald - Southeast Cooling and Heating'.",
+  "independent_status": "confirmed independent, family-owned; no acquisition/partnership hits (an 'acquired' search returns only the unrelated 'Southeastern Home Services acquires Stay Cool A/C' deal)",
+  "extra_findings": "Incorporated 9/3/2013 (EIN 46-3595226), active, 2024 annual report filed 3/18/2024 -- the 'over 16 years experience' line refers to the owner, the company is ~13 years old. Yelp 4.7 (23 reviews), 24-hour hours. Email southeastcooling@gmail.com (gmail address = possible branding/email-domain talking point). Serves Dade/Broward/Palm Beach; does residential, commercial and property-management HVAC inspections. Not listed as BBB accredited.",
+  "sources": [
+   "https://www.bbb.org/us/fl/sunrise/profile/air-conditioning-contractor/southeast-cooling-and-heating-inc-0633-90305757",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=E59AF308FE530678C343F9D39C70FB7F",
+   "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=SOUTHEASTCOOLINGHEATING+P130000729400&aggregateId=domp-p13000072940-d0dba0fa-47b5-4ba8-aaff-c3764bf9c10b&searchTerm=SOUTHEAST+CONTRACTING+LLC&listNameOrder=SOUTHEASTCOOLING+L240002093410",
+   "https://www.linkedin.com/in/todd-fitzgerald-2216389a/",
+   "https://www.yelp.com/biz/southeast-cooling-and-heating-sunrise"
+  ]
+ },
+ {
+  "name": "Big Time Air Conditioning",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 554-7429 (Yahoo Local, Yelp, Birdeye). Email bigtimeair.hvac@gmail.com.",
+  "address_status": "confirmed",
+  "address_correct": "5021 S State Road 7, Unit 208, Davie, FL 33314 (Yelp; Sunbiz principal/mailing address) -- add ZIP 33314",
+  "owner_status": "confirmed, with a correction: there is a second officer",
+  "owner_correct": "Leron Neoray Vahnounou (Sunbiz spells it 'Vahnouno'); 'Neo V.' on Yelp is the same person. Sunbiz ALSO lists Roy Bouhnik (Coral Springs, FL) as an officer (VP/President), so 'founder-owned' is incomplete -- two principals.",
+  "owner_title_correct": "President and registered agent of Big TimeAir Inc (Sunbiz P22000007397); license qualifier CAC1822336 (BuildZoom/DBPR).",
+  "independent_status": "no acquisition, PE or franchise hits; privately held two-officer corporation",
+  "extra_findings": "Legal entity is 'Big TimeAir Inc', a corporation filed 2/3/2022 (EIN 88-0536919) even though marketing says 'established 2012' -- no earlier entity surfaced. REPUTATION FLAGS: BBB (listed under air-duct cleaning) NOT accredited, 2.8/5 from 5 reviews, complaints about a permit taking 7 months to close and no response after an install failure; Yelp only 2.3 (3 reviews); yet Birdeye 4.5 (160) and HomeAdvisor 4.5 -- plus online allegations of paid/fake 5-star reviews. Also operates Facebook page 'Big Time Air Duct Cleaning Pros'. Has location pages for Fort Lauderdale and Davie; serves Broward/Palm Beach/Miami-Dade. Permit/follow-up process problems are a concrete pain point to raise.",
+  "sources": [
+   "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=BIGTIMEAIR+P220000073970&aggregateId=domp-p22000007397-e31ff256-b8dd-47f4-9c90-6551b7e1d660&searchTerm=BIG+TIMBER+CATTLE+COMPANY,+INC.&listNameOrder=BIGTIMBERCATTLE+P050000946930",
+   "https://www.buildzoom.com/contractor/big-timeair-inc",
+   "https://www.bbb.org/us/fl/davie/profile/air-duct-cleaning/big-timeair-inc-0633-92022434/customer-reviews",
+   "https://www.yelp.com/biz/big-time-air-conditioning-davie",
+   "https://reviews.birdeye.com/big-time-air-conditioning-166567124696952",
+   "https://www.homeadvisor.com/rated.BigTimeairInc.123287960.html",
+   "https://local.yahoo.com/info-231021749-big-time-air-conditioning-davie/"
+  ]
+ },
+ {
+  "name": "AC Police LLC",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 812-2969 (Yelp, Yahoo Local, company site). Alternate number on BBB profile: (954) 395-1194 -- try if main line fails.",
+  "address_status": "confirmed with alternate",
+  "address_correct": "4611 S University Dr Ste 424, Davie, FL 33328 (Yelp, Yahoo Local). BBB profile instead lists 2450 Hollywood Blvd #606, Hollywood, FL 33020; both look like suite/mailbox addresses, not a shop.",
+  "owner_status": "confirmed",
+  "owner_correct": "Shawn Paul Miranda",
+  "owner_title_correct": "Owner (company site, Yelp) / President (BBB principal); DBPR license holder CAC1818540 dba 'AC POLICE L.L.C.'",
+  "independent_status": "confirmed independent; veteran-owned LLC since 1/26/2016 (Sunbiz L16000023467); no acquisition or partnership hits",
+  "extra_findings": "BBB NOT accredited, 10 years in business. Yelp 4.6 (19 reviews). Company states 6 fully stocked trucks and 8 full-time employees; owner has 15+ years HVAC experience. Member of the Davie-Cooper City Chamber of Commerce. Open 24/7; residential and commercial. Nextdoor page filed under Hollywood, FL. ZoomInfo has an employee directory for AC Police LLC. Mid-size, growing shop -- good fit profile.",
+  "sources": [
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=A0F7851EA022A93F3E26B9C05DF5A820",
+   "https://www.bbb.org/us/fl/hollywood/profile/air-conditioning-contractor/ac-police-0633-92053783",
+   "https://www.yelp.com/biz/a-c-police-davie",
+   "https://local.yahoo.com/info-213827065-a-c-police-davie/",
+   "https://members.davie-coopercity.org/list/member/ac-police-llc-3815",
+   "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=ACPOLICE+L160000234670&aggregateId=flal-l16000023467-7b4150f1-a208-47e5-b27a-9e5316b7d721&searchTerm=AC+POLICE+L.L.C.&listNameOrder=ACPOLICE+L160000234670",
+   "https://www.acpolicellc.com/contact.html"
+  ]
+ },
+ {
+  "name": "Central Air Solutions",
+  "phone_status": "confirmed",
+  "phone_correct": "(954) 842-3040 (BBB, iBegin, Birdeye)",
+  "address_status": "confirmed",
+  "address_correct": "18503 Pines Blvd Ste 310, Pembroke Pines, FL 33029-1406 (BBB, Yelp). An older directory (iBegin) shows 19246 NW 13th St, Pembroke Pines -- likely a prior/home address.",
+  "owner_status": "previously blank -- now identified and confirmed (BBB + DBPR)",
+  "owner_correct": "Carlos Morales",
+  "owner_title_correct": "Owner (BBB principal) and Primary Qualifying Agent, license CAC1819405 (DBPR). Legal entity: Central Air Solutions LLC (Sunbiz L17000137008, filed 6/23/2017).",
+  "independent_status": "confirmed independent, owner-operated LLC; no acquisition, partnership or franchise hits",
+  "extra_findings": "BBB NOT accredited; business started 4/12/2018; BBB notes the business FAILED TO RESPOND to 1 complaint. DBPR snippet shows license expiration 8/31/2026 -- that date has passed, so confirm renewal (normal 2-year cycle). Strong review volume: Birdeye 5.0 (198 reviews), Yelp 4.5 (50-53 reviews), Nicelocal 4.9; customers praise Carlos by name -- he is hands-on in the field (expect to reach him via dispatcher). Services: repair/replacement, attic insulation, duct restoration; same-day service, free estimates. ZoomInfo lists a Carlos Morales email at central-airsolutions.com. Caution: a different Carlos M. Morales qualifies 'Air Polar Installations Inc' in Cape Coral under a different license (CAC1819587) -- do not conflate.",
+  "sources": [
+   "https://www.bbb.org/us/fl/pembroke-pines/profile/air-conditioning-contractor/central-air-solutions-llc-0633-90418280",
+   "https://www.myfloridalicense.com/licenseRelation.asp?SID=&licid=6879942",
+   "https://www.yelp.com/biz/central-air-solutions-pembroke-pines-2",
+   "https://reviews.birdeye.com/central-air-solutions-165378469957411",
+   "https://bisprofiles.com/fl/central-air-solutions-l17000137008",
+   "https://www.ibegin.com/directory/us/florida/pembroke-pines/central-air-solutions-19246-nw-13th-st/",
+   "https://www.zoominfo.com/p/Carlos-Morales/7397877402"
+  ]
+ },
+ {
+  "name": "Stay Cool HVAC In Florida LLC",
+  "phone_status": "confirmed, but not the company's current primary number",
+  "phone_correct": "(954) 477-2190 is listed on Yelp (Hollywood) and BBB, so it should ring. BUT the company website now shows 954-502-2776 as its main line; BBB also lists (954) 477-9399 and (754) 240-7964. Recommend dialing 954-502-2776 first, (954) 477-2190 second.",
+  "address_status": "mismatch (company has moved / lists a new address)",
+  "address_correct": "2854 Stirling Rd Suite D, Hollywood, FL 33020 (company website and BBB). The researcher's 3930 N 56th Ave, Hollywood 33021 appears only on older Yelp/about.me listings. Also: Fort Lauderdale office at 1001 NW 62nd St Ste 410 (Yelp FTL listing) and a principal address of 1844 NW 21st St, Pompano Beach 33069 surfaced in one BBB/Sunbiz snippet.",
+  "owner_status": "previously blank -- now identified and confirmed (BBB)",
+  "owner_correct": "Leonid 'Leo Elie' Goykhman (LinkedIn as 'Elie Goykhman')",
+  "owner_title_correct": "Founder / President (BBB principal 'Mr. Leonid Goykhman, President'; NewsBreak profile 'Founder and President'). Company license CAC1822623 (exp 8/31/2028) per BBB; the DBPR qualifier's name did not appear in any snippet, so his personal license-holder status is not independently confirmed.",
+  "independent_status": "confirmed independent (new LLC, founder-led); no acquisition or franchise hits. IMPORTANT: do not confuse with 'Stay Cool Air Conditioning and Heating' of Port Richey, FL, acquired 8/15/2022 by PE-backed Southeastern Home Services -- that is a different company. Also distinct from 'Stay Cool In Florida, L.L.C.' (DBPR qualifier Jose M. Freitas Sr.).",
+  "extra_findings": "Very young company: Sunbiz L23000239307, incorporated 5/16/2023, business start 10/6/2023; BBB file opened 7/17/2025 and BBB ACCREDITED since 1/12/2026 (researcher said nothing on accreditation). Rapid footprint expansion (Hollywood -> Stirling Rd, plus Fort Lauderdale office) and multiple phone numbers suggest growth/rebranding in flight. Reviews split: Google 4.9 vs Yelp 3.4 (5 reviews, Hollywood) and 3.7 (3, Fort Lauderdale). Marketing-heavy owner: EIN Presswire releases (2024) and a NewsBreak puff profile -- already spends on PR/SEO. Email support@staycooltoday.com (different domain from website). Open 24 hours.",
+  "sources": [
+   "https://www.bbb.org/us/fl/fort-lauderdale/profile/air-conditioning-contractor/stay-cool-hvac-in-florida-llc-0633-92052327",
+   "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=STAYCOOLHVACINFLORIDA+L230002393070&aggregateId=flal-l23000239307-387dc1da-68e1-477a-82b5-210fb8c56265&searchTerm=STAY+COOL%2C+LLC&listNameOrder=STAYCOOLEYAC+L170000302280",
+   "https://www.yelp.com/biz/stay-cool-hvac-hollywood",
+   "https://www.yelp.com/biz/stay-cool-hvac-fort-lauderdale",
+   "https://staycoolinflorida.com/",
+   "https://www.newsbreak.com/news/3990502651084-leo-elie-goykhman-the-rise-of-florida-s-newest-top-hvac-contractor-stay-cool-hvac-in-florida",
+   "https://www.linkedin.com/in/elie-goykhman-717891348/",
+   "https://www.einpresswire.com/article/682206598/stay-cool-hvac-in-florida-llc-announces-innovative-ac-repair-solutions-for-hollywood-florida-residents",
+   "https://www.achrnews.com/articles/146957-southeastern-home-services-acquires-stay-cool-air-conditioning-and-heating"
+  ]
+ },
+ {
+  "name": "Brisk Air, Inc (dba Brisk Air, briskaircool.com)",
+  "phone_status": "confirmed (single independent source: BBB profile snippet)",
+  "phone_correct": "(954) 369-1639",
+  "address_status": "confirmed (BBB profile snippet)",
+  "address_correct": "4450 NW 126th Ave Ste 103, Coral Springs, FL 33065",
+  "owner_status": "confirmed",
+  "owner_correct": "Andy Andres (BBB: 'President: Mr. Andy Andres; Secretary: Ms. Jacklyn Andres'); company site: 'owned by Andy and Jackie', founded 1972",
+  "owner_title_correct": "President (per BBB); spouse Jacklyn (Jackie) Andres is Secretary",
+  "independent_status": "no contrary evidence - BBB lists two individual principals and the site says family-owned since 1972; an 'acquired / partners with' search could not be run (search budget exhausted), so independence is not actively confirmed",
+  "extra_findings": "NAME-COLLISION WARNING: a different company, Brisk Air Conditioning, LLC (briskairconditioning.com, 1435 E Venice Ave #104, Venice, FL 34292, owner John Tylka), shows up in the same searches - do not dial or reference that one. BBB categorizes Brisk Air, Inc as 'Commercial Air Conditioning Contractors' although the website markets residential work in Miramar, Southwest Ranches and Hollywood (30+ miles from Coral Springs). Phone and address rest on one third-party source (BBB); no Yelp/Google snippet with the number was captured, so a 10-second Google Business check before dialing is prudent. Site has a live misspelled URL slug (/ac-copmany-southwest-ranches-fl/). Apollo.io free lookup confirms 'Brisk Air Inc' = briskaircool.com. Verification method caveat: all checks were made against snippets captured earlier in this session; no new web searches were possible.",
+  "sources": [
+   "https://www.bbb.org/us/fl/coral-springs/profile/commercial-air-conditioning-contractors/brisk-air-inc-0633-90309969",
+   "https://briskaircool.com/who-we-are/",
+   "https://briskaircool.com/ac-copmany-southwest-ranches-fl/",
+   "https://rocketreach.co/brisk-air-inc-profile_b473be99fc5ce4f3",
+   "https://www.bbb.org/us/fl/venice/profile/air-conditioning-contractor/brisk-air-conditioning-llc-0653-90305382 (different company - collision warning)",
+   "Apollo.io organizations lookup (free): 'Brisk Air Inc', domain briskaircool.com"
+  ]
+ },
+ {
+  "name": "Abraham AC & Heating Service, Inc.",
+  "phone_status": "unverifiable by independent source - the only source for 954-433-6504 is the company's own Pembroke Pines service-area page; no BBB/Yelp/Google snippet carrying the number was captured",
+  "phone_correct": "",
+  "address_status": "unverifiable - no street address in any snippet; only 'Oakland Park-based' from the company's own pages",
+  "address_correct": "",
+  "owner_status": "unverifiable - no owner/principal name in any captured snippet; the three owner-focused queries ('Abraham AC & Heating' owner OR president OR founder BBB, etc.) were never executed because the search budget ran out",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no PE/franchise/consolidator indicators in snippets (Florida Inc., single Oakland Park base), but not actively checked - 'acquired / partners with' search not run",
+  "extra_findings": "The 954-433 exchange is a Pembroke Pines/Miramar-area exchange while the company says it is Oakland Park-based, and the number appears only on a city landing page, so it may be a call-tracking number; it should still ring the business, but confirm against the Google Business listing before Monday. Apollo.io indexes the company under a different trade name, 'Abraham AC Service & Installation' (domain abrahamac.com) - expect name variants on the phone. HomeAdvisor lists 'Abraham AC & Heating Services, Inc.' at 5.0 from 24 reviews. Indeed snippet: hiring HVAC Service Technicians at $80,000-$120,000/yr with uncapped commission (Broward County). Company pages show license CAC1822797; CAC18xxxxx numbers are recent-era issues, which for a company 'founded 2003' hints the current qualifier/license is newer than the business - worth asking who the qualifier is. Site has duplicate URL patterns for the same cities (SEO-agency pattern) and stale '15+ years' copy. Records in this batch that rest only on the company's own website should be treated as unconfirmed for Monday dialing.",
+  "sources": [
+   "https://www.abrahamac.com/service-areas/pembroke-pines/ (company page - only phone source)",
+   "https://abrahamac.com/service-areas/oakland-park/",
+   "https://abrahamac.com/service-areas/lauderhill/",
+   "https://www.homeadvisor.com/c.Air-Conditioning.Fort_Lauderdale.FL.-12002.html",
+   "https://www.indeed.com/q-HVAC-Technician-l-Fort-Lauderdale,-FL-jobs.html",
+   "Apollo.io organizations lookup (free): 'Abraham AC Service & Installation', domain abrahamac.com"
+  ]
+ },
+ {
+  "name": "Lucas Technical Air (Lucas Technical Air, Corp)",
+  "phone_status": "confirmed (third-party directory snippets from the 'Lucas Technical Air Conditioning Deerfield Beach' result set - Yelp/BBB/experience.com/citysquares/wheree; no company page in that result set)",
+  "phone_correct": "(954) 213-5673",
+  "address_status": "confirmed (Yelp listing title verbatim '1809 S Powerline Rd, Deerfield Beach'; directory summary adds Ste 102, 33442)",
+  "address_correct": "1809 S Powerline Rd, Ste 102, Deerfield Beach, FL 33442",
+  "owner_status": "unverifiable - only the first name 'Lucas' appears, in customer reviews ('Lucas and his team'); no surname, no BBB principal, no Sunbiz officer captured; the '\"Lucas Technical Air\" BBB owner' query was never executed (budget)",
+  "owner_correct": "Lucas (first name only; surname unknown)",
+  "owner_title_correct": "unknown - 'owner-operator' is an inference from reviews, not a sourced title",
+  "independent_status": "no contrary evidence - experience.com profile tags: Veteran Owned & Operated, Family Owned & Operated; legal entity 'Lucas Technical Air, Corp' per BBB; acquisition search not run",
+  "extra_findings": "Listings are inconsistent: Yelp = 'Lucas Technical Air Conditioning' (11 reviews, 17 photos), BBB = 'Lucas Technical Air, Corp', Nextdoor = 'Lucas Technical Air & Electeic' [sic] tagged Pompano Beach/Margate - ask on the call whether electrical is now offered. Review footprint: 4.86 from 382 verified reviews on experience.com vs 11 on Yelp; 'for 20 years' serving Broward, Palm Beach and Miami-Dade; open 24/7. NAME-COLLISION WARNING: 'Lucas Air Conditioning and Heating' (lucasair.com), also veteran-owned, is a different company. Website is a grid of city landing pages (Lauderhill to Juno Beach) each claiming '#1 rated'. Apollo.io free lookup confirms 'Lucas Technical Air' = lucastechnicalair.com. Downgrade owner confidence until the surname is confirmed on the call; open with 'Is Lucas available?' rather than a surname.",
+  "sources": [
+   "https://www.yelp.com/biz/lucas-technical-air-conditioning-deerfield-beach",
+   "https://www.experience.com/reviews/lucas-23062479",
+   "https://www.bbb.org/us/fl/deerfield-beach/profile/air-conditioning-contractor/lucas-technical-air-corp-0633-90586362",
+   "https://nextdoor.com/pages/lucas-technical-air-margate-fl/",
+   "https://citysquares.com/b/lucas-technical-air-25122222",
+   "https://www.southfloridacontractors.com/contractors/lucas-technical-air/",
+   "https://lucas-technical-air.wheree.com/",
+   "Apollo.io organizations lookup (free): 'Lucas Technical Air', domain lucastechnicalair.com"
+  ]
+ },
+ {
+  "name": "Cusano Air Conditioning & Heating, Inc.",
+  "phone_status": "unverifiable by independent source - 954-472-8002 appears only in the company's own Dania Beach service-area page snippet; no BBB/Yelp/Manta snippet carrying the number was captured",
+  "phone_correct": "",
+  "address_status": "confirmed for city/ZIP only (Manta title 'Cusano Air Conditioning & Heat Davie FL, 33314'; BBB, Yahoo Local and Birdeye all place it in Davie); street address still unknown",
+  "address_correct": "Davie, FL 33314 (street not found)",
+  "owner_status": "unverifiable - no principal/officer name in any captured snippet; the '\"Cusano Air Conditioning\" BBB owner' and 'Florida phone address' queries were never executed (budget). Do not assume a 'Mr./Ms. Cusano' - the surname brand is the only hint",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no PE/franchise indicators (Florida Inc. since 1998, surname brand, Apollo record long-indexed); acquisition search not run",
+  "extra_findings": "954-472 is a Plantation-area exchange for a Davie shop - plausible as a legacy 1998 number but unconfirmed; verify on Google Business before dialing. Reviews: Birdeye 4.8 from 50; 4.8 from 37 on another platform; a July 2020 BuildZoom 1-star says 'we paid everything but they never went to take a permit at City Hall even after years' (quotable systems failure, but it is 5+ years old). Homepage is titled 'Miami Commercial HVAC Services' and claims Miami-Dade, Broward, Palm Beach and Monroe coverage while the shop sits in Davie. License CAC058078 shown on service pages (older-era number, consistent with 1998 founding). Open 24/7. RocketReach and hvac-usa.nears.me profiles exist. Apollo.io free lookup confirms 'Cusano Air Conditioning & Heating, Inc.' = cusanoairconditioning.com.",
+  "sources": [
+   "https://www.manta.com/c/mhxj9vf/cusano-air-conditioning-heat",
+   "https://www.bbb.org/us/fl/davie/profile/air-conditioning-contractor/cusano-air-conditioning-heating-inc-0633-90251491",
+   "https://local.yahoo.com/info-224613927-cusano-air-conditioning-and-heating-davie/",
+   "https://reviews.birdeye.com/cusano-air-conditioning-and-heating-inc-166861242434637",
+   "https://www.buildzoom.com/contractor/cusano-air-conditioning-and-heating-inc",
+   "https://www.cusanoairconditioning.com/service-areas/ac-repair-dania-beach/ (company page - only phone source)",
+   "https://rocketreach.co/cusano-air-conditioning-heating-inc-profile_b445c89cfa4f2f9f",
+   "Apollo.io organizations lookup (free): 'Cusano Air Conditioning & Heating, Inc.', domain cusanoairconditioning.com"
+  ]
+ },
+ {
+  "name": "Mr. Air AC & Electrical (Mr Air Air Conditioning & Electrical)",
+  "phone_status": "unverifiable - no phone digits for this company appear in any captured snippet (the Yelp title carries the words 'Phone Number' but not the digits); the record's blank is correct and the number must be looked up before Monday",
+  "phone_correct": "",
+  "address_status": "confirmed (three independent sources: Yelp title '4624 N Powerline Rd, Pompano Beach'; BBB directory snippet '4624 N Powerline Rd, Pompano Beach, FL 33073, BBB Accredited since 5/24/2024'; centralindex '4624 N Powerline Road, Pompano Beach, FL, 33073')",
+  "address_correct": "4624 N Powerline Rd, Pompano Beach, FL 33073",
+  "owner_status": "mismatch / disputed - the record names Zachary Fraley as owner on the strength of one self-published Oct 2024 IssueWire release, while three independent sources point to Joseph (Joe) R. Mascetti: LinkedIn headline 'Joe Mascetti - Owner at Mr Air Air Conditioning & Electrical'; BBB 'Mr. Joe R. Mascetti, Managing Member'; DBPR license record 'MASCETTI, JOSEPH RAYMOND; Doing Business As: MR AIR AIR CONDITIONING & ELECTRICAL, Certified Air Conditioning Contractor'. The follow-up query on Fraley was never executed (budget), so a 2024 ownership change cannot be ruled out",
+  "owner_correct": "Joseph (Joe) R. Mascetti (lead with him; ask whether Zachary Fraley is a new owner/partner)",
+  "owner_title_correct": "Managing Member (BBB); self-described 'Owner' on LinkedIn; DBPR-licensed qualifier (CAC)",
+  "independent_status": "no contrary evidence - LLC with an individual Managing Member, state license held personally by Mascetti, BBB-accredited only since May 2024; acquisition/partner search not run. Possible internal ownership change (Mascetti to Fraley) is unconfirmed",
+  "extra_findings": "Prior-name clue: the HomeAdvisor profile for 'Mr.Air Air Conditioning & Electrical' lives at a legacy URL slug 'rated.APlusHeatingandCooling.92091435', suggesting the business (or its HomeAdvisor account) was formerly 'A Plus Heating and Cooling' - consistent with a rebrand/ownership history worth asking about. Angi 4.7 from 20 reviews; Yelp 17 reviews; one 1-star install complaint from 2020; snippet states 'the business currently has 20 employees' and that techs are background-checked and drug-tested. Two separate web properties (callmrair.com and callmrair.mediaroom.app/about-us) plus IssueWire press releases = agency-built presence. The record's 'hiring now (Indeed, $20-40/hr)' claim could not be re-verified: the captured 'hiring reviews' search said it found no active job openings. ZoomInfo and Nextdoor profiles exist. Apollo.io free lookup confirms 'Mr. Air AC & Electrical' = callmrair.com. Call-opening recommendation: 'Is Joe Mascetti still running Mr. Air?' - do not open by asking for Zachary Fraley as owner.",
+  "sources": [
+   "https://www.linkedin.com/in/joe-mascetti-11310b13/",
+   "https://www.myfloridalicense.com/LicenseDetail.asp?SID=&id=7609275CDB543FA661741024C9B0609A",
+   "https://www.bbb.org/us/fl/pompano-beach/profile/air-conditioning-contractor/mr-air-ac-electrical-0633-92036161",
+   "https://www.yelp.co.uk/biz/mr-air-pompano-beach-2",
+   "https://us.centralindex.com/company/236e44641bcf464b6757d5aa9a116093/mr-air-ac-electrical/pompano-beach",
+   "https://www.angi.com/companylist/us/fl/pompano-beach/mrair-air-conditioning-electrical-reviews-1.htm",
+   "https://www.homeadvisor.com/rated.APlusHeatingandCooling.92091435.html",
+   "https://www.issuewire.com/mr-air-ac-electrical-introduces-247-emergency-services-for-pompano-beach-residents-1812605063723281 (sole source naming Fraley)",
+   "https://www.experience.com/reviews/mr-air-air-conditioning-and-electrical-22910589",
+   "https://www.zoominfo.com/c/mr-air-ac--electrical/1313614220",
+   "Apollo.io organizations lookup (free): 'Mr. Air AC & Electrical', domain callmrair.com"
+  ]
+ },
+ {
+  "name": "Vital A/C Solutions, Inc.",
+  "phone_status": "confirmed (two independent sources: Yelp listing title carries '+19548218640'; claimspages.com listing URL/title 'Vital A/C Solutions, Inc. (954) 821-8640')",
+  "phone_correct": "(954) 821-8640",
+  "address_status": "confirmed (Yelp title '5451 NW 24th St, Margate'; directory summary 'Ste 2, Margate, FL 33063'; company site '5451 NW 24th St #2')",
+  "address_correct": "5451 NW 24th St, Ste 2, Margate, FL 33063",
+  "owner_status": "confirmed - Yelp lists 'Warley V., Business Owner' (independent); the full name 'Warley Beltrame Vital' comes from the company's own site copy as summarized in search results. First name + initial independently confirmed; full surname rests on the company site",
+  "owner_correct": "Warley Beltrame Vital",
+  "owner_title_correct": "Owner (Yelp: 'Business Owner')",
+  "independent_status": "no contrary evidence - family-owned and operated per site and directories, single Margate suite office; acquisition/partner search not run",
+  "extra_findings": "Reviews split and small: Yelp 4.7 from 29 (an older Yelp page shows 33), Nearby Now 5.0 from 44 (Nearby Now profile is tagged Pompano Beach as service area); Nextdoor, BuildZoom, southfloridacontractors and worldorgs listings exist. Listed on claimspages.com (an insurance-adjuster vendor directory), which hints they take insurance-claim restoration work. Still running a Craigslist 'Air Conditioning Services' ad in Pompano Beach. No CAC license number surfaced in any snippet. Apollo.io free lookup confirms 'Vital A/C Solutions, Inc' = vitalacsolutions.com (record first indexed ~2021). This is the best-verified record of the six for Monday dialing.",
+  "sources": [
+   "https://www.yelp.com/biz/vital-a-c-solutions-margate-4",
+   "https://www.claimspages.com/providers/vital-ac-solutions-inc-9548218640/",
+   "https://www.nearbynow.co/profile/air-conditioning/vital-ac-solutions-air-conditioning-heating/fl/pompano%20beach",
+   "https://nextdoor.com/pages/vital-ac-solutions/",
+   "https://www.buildzoom.com/contractor/vital-a-c-solutions-inc",
+   "https://www.southfloridacontractors.com/contractors/vital-a-c-solutions-inc/",
+   "https://usa-services.worldorgs.com/catalog/margate/air-conditioning-repair-service/vital-ac-solutions-inc",
+   "https://www.vitalacsolutions.com/ (company site - source of full owner name)",
+   "Apollo.io organizations lookup (free): 'Vital A/C Solutions, Inc', domain vitalacsolutions.com"
+  ]
+ },
+ {
+  "name": "Friendly A/C",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable (no address in record; none found)",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED: WebSearch budget was already exhausted (200/200) before this run and the egress proxy blocks every outside host (BBB, Yelp, Google, Sunbiz, DBPR, LinkedIn, etc. all 403), so nothing in this record could be independently confirmed or refuted. What is known: (954) 787-6828 came from the company's own homepage snippet, not a directory. FLAG: a 954 (Broward) number on a business whose site pages are Boca/Palm Beach (561) may be a tracking line or the owner's old cell; ask the receptionist for the main office number on the call. The earlier research pass recorded the HQ city as Boca Raton but found no street address. Apollo.io (free lookup) has an organization record for friendlyac.com under the name 'Friendly A/C' (record first indexed ~Oct 2024, a soft sign of a newer web presence despite the 'since 2006' homepage claim). Owner, title and headcount are not obtainable on this Apollo plan without spending 1 credit (org enrichment, needs the user's explicit OK). Treat phone and ownership claims as self-reported until a Google Business Profile check is done.",
+  "sources": [
+   "https://www.friendlyac.com/",
+   "https://www.friendlyac.com/pompano-beach-fl",
+   "Apollo.io free organization lookup, 2026-10-03 (record 67150ba85e942500015c6799)"
+  ]
+ },
+ {
+  "name": "All Time Air Conditioning",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). Mitigating point: unlike most records in this batch, the phone and the 2940 Commerce Park Dr STE 12, Boynton Beach 33426 address were originally captured from a BBB profile snippet (an independent directory), not the company homepage, so they are the strongest-sourced contact details of the 8 \u2014 but they were not re-checked today. The BBB profile ID is in the source URL below; opening it manually will show the principal's name and title (BBB lists them), which no snippet captured. Apollo.io (free lookup) confirms an organization record for alltimeairconditioning.com under the same name (first indexed ~Oct 2021, consistent with a shop founded 2010 and BBB-accredited 2020). Owner name remains unknown; do not assume one.",
+  "sources": [
+   "https://www.bbb.org/us/fl/boynton-beach/profile/heating-and-air-conditioning/all-time-air-conditioning-0633-90108481",
+   "https://alltimeairconditioning.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (record 6161850ab613a30001865b9a)"
+  ]
+ },
+ {
+  "name": "Climate Control Services",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable (no address in record; none found)",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). (561) 408-0367 came from the company's own Lake Worth city SEO page, so it may be a city-page tracking number rather than the main line. HQ city was never established (earlier pass: 'Lake Worth (HQ not in snippet)'). NAME VARIANCE: Apollo.io's record for my-ccs.com is titled 'Climate Control Service' (singular), first indexed ~Sept 2015; the legal/registered name may differ from the marketing name, so confirm the company name when the phone is answered. The 'since 1973 / three generations' claim is self-reported on the site and was not corroborated. Owner unknown.",
+  "sources": [
+   "https://my-ccs.com/ac-repair-lake-worth-fl/",
+   "https://my-ccs.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (record 55ed584ff3e5bb44900009b3)"
+  ]
+ },
+ {
+  "name": "E.D.S Air Conditioning & Plumbing",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked; an attempted fetch of www.edsairconditioning.com earlier in this session was also denied by the proxy). Phone (561) 586-7090 and the 2200 4th Ave N Ste 1, Lake Worth 33461 address both came from the company's own Lake Worth service-area page, not an independent directory. Earlier research also captured 'family-owned since 2006' and an active job posting for residential service techs at $25-$35/hr (hiring signal; source not re-checked). Apollo.io (free lookup) has a record for edsairconditioning.com titled 'EDS Air Conditioning and Plumbing', first indexed ~Apr 2026 \u2014 a very recent record, a soft sign of a new or relaunched web presence or rebrand; worth asking on the call whether the business recently changed hands or added the plumbing division. Owner unknown.",
+  "sources": [
+   "https://www.edsairconditioning.com/service-area/air-conditioning-heating-lake-worth-fl",
+   "https://www.edsairconditioning.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (record 69e306437bc8ba000180118b)"
+  ]
+ },
+ {
+  "name": "Next Level Air Conditioning",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable (no address in record; none found)",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). FLAGS: (1) (954) 687-7199 is a Broward area code on a company the site describes as based in Greenacres (Palm Beach, 561) \u2014 likely the owner's cell or a tracking line; phone came from the homepage only. (2) POSSIBLE NAME COLLISION: Apollo.io has NO record for nextlevelairconditioning.com but does have an organization named 'Next Level Air Conditioning' at a different domain, acnextlevel.com (record first indexed ~Jan 2026, location not shown on the free plan). Either a second company with the same name or a second/older domain of this one \u2014 confirm the website with the receptionist before quoting it. Earlier pass captured 'since 2016'; family-owned claim is self-reported. Owner unknown.",
+  "sources": [
+   "https://www.nextlevelairconditioning.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (no record for nextlevelairconditioning.com; separate record 696fdc54370acd000cfca176 at acnextlevel.com)"
+  ]
+ },
+ {
+  "name": "ACE Air Conditioning (Ace Heating & Air Conditioning Service Inc)",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). Mitigating point: phone (561) 833-1236, the 510 Whitney Ave, Lantana address and the 'founded 1977 by Cal Waters' line were originally captured from a Yelp business-page snippet, i.e. an aggregator rather than the homepage \u2014 but the founder line on Yelp is the business's own 'From the business' text, so it is still self-reported. Cal Waters is the FOUNDER (1977); whether he is still the owner/decision-maker 49 years later is unknown and generational handoff is likely \u2014 ask for 'the owner' rather than for Cal by name. Apollo.io has no organization record for aceairconditioner.com or for the company name, so no third-party headcount/phone is available even with credits. Commercial HVAC/R focus (refrigeration, ice machines) per earlier pass.",
+  "sources": [
+   "https://www.yelp.com/biz/ace-air-conditioning-lantana",
+   "https://www.aceairconditioner.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (no record found)"
+  ]
+ },
+ {
+  "name": "Reyes Air Conditioning",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable (no address in record; none found)",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). (561) 386-5858 came from the company's own repair-service page only; HQ was never established ('Royal Palm Beach area' was the earlier pass's guess, not a sourced address). 'Second-generation family business, 30+ years' is self-reported. Apollo.io has no organization record for reyesac.com or for the company name. The surname in the brand suggests a Reyes family owner but no first name or title was found anywhere \u2014 do not guess one on the call; ask for the owner.",
+  "sources": [
+   "https://reyesac.com/air-conditioning/repair/",
+   "https://reyesac.com/",
+   "Apollo.io free organization lookup, 2026-10-03 (no record found)"
+  ]
+ },
+ {
+  "name": "Lowen Air Conditioning",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable (no address in record; HQ city conflicting)",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable (no contrary evidence; not on the researcher's consolidator/exclusion list)",
+  "extra_findings": "VERIFICATION NOT PERFORMED this run (web search budget exhausted, all fetch paths blocked). (561) 935-6489 came from the company's Wellington service-area SEO page, so it may be a city-page tracking number. HQ CONFLICT in the earlier research: one record (from lowenac.com/about-us) places the company in Jupiter, 'family-run since 1971'; another (from the Wellington service-area page) says 'Wellington area, HQ not in snippet' \u2014 resolve the HQ city before the call. Apollo.io (free lookup) confirms an organization record for lowenac.com under the name 'Lowen Air Conditioning' (first indexed ~June 2025; a 1971 shop with a 2025 Apollo record suggests a recent website relaunch). Apollo people search is not on this plan and org enrichment costs 1 credit, so no owner name or headcount could be pulled. Owner unknown.",
+  "sources": [
+   "https://lowenac.com/about-us",
+   "https://lowenac.com/service-area/air-conditioning-heating-wellington-fl",
+   "Apollo.io free organization lookup, 2026-10-03 (record 68629ff72580df0019f13961)"
+  ]
+ },
+ {
+  "name": "Chills Air Conditioning Services Inc",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable",
+  "extra_findings": "NOT VERIFIED - no independent source could be reached in this run. The session's WebSearch budget was already exhausted (200/200) before the first query, and WebFetch returned EGRESS_BLOCKED for bbb.org, yelp.com, search.sunbiz.org, opencorporates.com, yellowpages.com, html.duckduckgo.com, bing.com and chillsairconditioning.com. Apollo company search/enrich were available but cost credits and require explicit user approval, so they were not called. Caution visible in the record itself: the researcher's record carries two different addresses (12351 SW 128th Ct Ste 305 per Yelp/directories vs 12300 SW 105th St per BBB, both 33186) - treat the Yelp/BBB split as unresolved and confirm the service address on the call. Owner name and title were already blank in the researcher's record, so the caller has no name to ask for by name. Recommend re-running this check with a fresh search budget (or raising CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION) before Monday, or having the caller verify the number by dialing and asking for the owner.",
+  "sources": []
+ },
+ {
+  "name": "Island Breeze Air Conditioning LLC",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable",
+  "extra_findings": "NOT VERIFIED - no independent source could be reached in this run (WebSearch budget exhausted at 200/200 before the first query; WebFetch EGRESS_BLOCKED for islandbreezeac.io, yellowpages.com, bbb.org, yelp.com, sunbiz, opencorporates, duckduckgo and bing; Apollo tools not called because they consume credits and require user approval). Cautions visible in the record itself: the primary website is a .io domain (islandbreezeac.io) with a second domain (islandbreeze-ac.com) cited only via Trustindex - two live domains for a small HVAC LLC can indicate a rebrand, a marketing-agency-built site, or a name collision with another 'Island Breeze' AC company; confirm which domain and number the business itself uses. Owner name/title were already blank in the researcher's record. Recommend re-checking with a fresh search budget before Monday.",
+  "sources": []
+ },
+ {
+  "name": "True Cool Air Conditioning Service Inc",
+  "phone_status": "unverifiable",
+  "phone_correct": "",
+  "address_status": "unverifiable",
+  "address_correct": "",
+  "owner_status": "unverifiable",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "unverifiable",
+  "extra_findings": "NOT VERIFIED - no independent source could be reached in this run (WebSearch budget exhausted at 200/200 before the first query; WebFetch EGRESS_BLOCKED for truecoolac.com, yelp.com, bbb.org, bing.com and every other host probed; Apollo tools not called because they consume credits and require user approval). Cautions visible in the record itself: two addresses are listed (5730 SW 74th St #300, South Miami 33143 and a Yelp-only 1172 S Dixie Hwy, Coral Gables) - a Yelp-only second location is a common artifact of a stale or merged Yelp listing, so confirm on the call which is the operating office before referencing it. The 'family-owned since 1998' claim and the owner name/title (blank in the researcher's record) are unconfirmed. Recommend re-checking with a fresh search budget before Monday.",
+  "sources": []
+ },
+ {
+  "name": "Comfortly Air Conditioning",
+  "phone_status": "confirmed (one independent source: Palm Beach North Chamber member directory lists (561) 786-8622; no Yelp/BBB/Google listing surfaced in any snippet)",
+  "phone_correct": "(561) 786-8622",
+  "address_status": "confirmed (same chamber listing: 8075 Avocado Boulevard, West Palm Beach, FL 33412). Caution: 33412 is The Acreage/Loxahatchee area and Avocado Blvd is a residential-pattern street, so this is likely a home-based address, not a shop; confirm on Google Maps before any visit",
+  "address_correct": "8075 Avocado Blvd, West Palm Beach, FL 33412",
+  "owner_status": "unverifiable (no snippet from any source names an owner, principal or officer; chamber listing only says Hispanic-owned)",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no contrary evidence; consistent with independent (chamber directory: Hispanic-owned member; company site: family-owned). Not named in the 2025 South Florida HVAC acquisitions results (those named Flow-Tech/Sunny Bliss and Air Around the Clock/Flint Group)",
+  "extra_findings": "Chamber listing is self-reported member data, so phone/address are one-source confirmed, not two. Apollo free org lookup returns NO record for callcomfortly.com (matches researcher note). No review counts, Yelp, BBB or Google snippet surfaced anywhere, which points to a very thin online footprint / newer brand. Site copy pushes same-day repair and honest pricing. Verification limits this pass: WebSearch budget exhausted (200/200) before this check, WebFetch egress-blocked, Apollo paid endpoints unavailable; nothing new could be pulled, so treat Sunbiz officer lookup and a Google Maps check of the number as still-open items before dialing.",
+  "sources": [
+   "https://members.pbnchamber.com/list/member/comfortly-air-conditioning-20153",
+   "http://members.npbchamber.com/list/category/air-conditioning-heating-refrigeration-71",
+   "https://callcomfortly.com/"
+  ]
+ },
+ {
+  "name": "Dove Air Conditioning & Refrigeration, Inc.",
+  "phone_status": "unverifiable independently (561-746-3757 appears only in the company's own doveac.com snippet via the Jupiter 'locally owned' search; no Yelp, BBB, YP or Google listing surfaced)",
+  "phone_correct": "561-746-3757 (as listed; company-site source only)",
+  "address_status": "unverifiable (no street address in any snippet; site pages only reference Jupiter, Juno Beach and West Palm Beach service areas)",
+  "address_correct": "",
+  "owner_status": "unverifiable (no owner, president or officer named in any snippet)",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no contrary evidence; site claims family owned and operated 'since 1994' / 'more than 25 years'. No acquisition or partnership mention found. Apollo free lookup confirms an org record 'DOVE AIR CONDITIONING & REFRIGERATION, INC.' at doveac.com (as the researcher stated)",
+  "extra_findings": "Everything known about Dove comes from its own site snippets, so this is the weakest-verified Palm Beach record: a wrong or disconnected number cannot be ruled out. Site is served over plain http (http://doveac.com/), and the 'more than 25 years' copy is stale against 'since 1994' (32 years in 2026), both signs of an older, lightly maintained web presence. Has per-city SEO pages (Jupiter, Juno Beach, West Palm Beach). Before Monday: confirm number on Google Maps and pull officers from Sunbiz; nothing in the captured snippets names the family.",
+  "sources": [
+   "http://doveac.com/",
+   "http://doveac.com/jupiter/",
+   "http://doveac.com/juno-beach/",
+   "https://doveac.com/west-palm-beach/"
+  ]
+ },
+ {
+  "name": "Miklos Air, Inc.",
+  "phone_status": "unverifiable independently ((561) 575-2173 appears only in the miklosair.com snippet summarized in the Jupiter 'locally owned' search; no third-party listing surfaced)",
+  "phone_correct": "(561) 575-2173 (as listed; company-site source only)",
+  "address_status": "unverifiable independently (231 Jupiter St, Jupiter, FL 33458 comes from the same company-site snippet; no Yelp/BBB/Google listing in snippets to corroborate)",
+  "address_correct": "231 Jupiter St, Jupiter, FL 33458 (as listed; company-site source only)",
+  "owner_status": "unverifiable (no owner/principal named in any snippet; do not assume the surname Miklos)",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no contrary evidence; site claims 'Family Owned and Operated Since 1984'. No acquisition or partnership mention found. Apollo free lookup confirms an org record 'Miklos Air' at miklosair.com",
+  "extra_findings": "Single-source record (company site only). Site has service-area pages (e.g., Palm Beach Gardens), i.e., a standard SEO build. 40+ year tenure (since 1984) supports the researcher's succession-stage angle but that is inference, not sourced. Nothing in the captured snippets gives a review count, BBB rating or license number. Treat phone as unconfirmed until checked on Google Maps; pull officers from Sunbiz for the owner name.",
+  "sources": [
+   "https://miklosair.com/",
+   "https://miklosair.com/service-area/air-conditioning-heating-palm-beach-gardens-fl"
+  ]
+ },
+ {
+  "name": "South Flow Air Conditioning Inc",
+  "phone_status": "confirmed (Yelp listing and BBB-profile-derived summary both show (786) 439-9494; a second number (844) 476-3569 is also listed, almost certainly a toll-free tracking line)",
+  "phone_correct": "(786) 439-9494 (primary); (844) 476-3569 (secondary/tracking)",
+  "address_status": "confirmed (summary of Yelp/BBB results: 14262 Southwest 140th Street, Suite 112, Miami, FL 33186). Note the BBB profile is filed under Homestead, FL, so a registered/mailing address in Homestead may differ from this Kendall office suite",
+  "address_correct": "14262 SW 140th St, Suite 112, Miami, FL 33186",
+  "owner_status": "confirmed (single source: 'Owner: Alexander Martinez, President' in the BBB-profile-derived summary; wording matches BBB's Business Management field; not corroborated by a second source)",
+  "owner_correct": "Alexander Martinez",
+  "owner_title_correct": "President",
+  "independent_status": "no contrary evidence; established 2019, reviews describe it as 'Family owned'; no acquisition or partnership mention; Facebook page @SoFlowAc. Not named in the 2025 South Florida HVAC acquisitions results",
+  "extra_findings": "Strongest Miami-Dade record: phone, address and principal all come from third-party listings (Yelp, BBB). Yelp: 4.9 stars, 95 reviews, 35 photos (listing updated April 2026). Email info@soflowac.com. Also listed on hvacservice.io and findmoldspecialists.com (mold-removal angle = IAQ upsell already in play). 'Established 2019' vs 'ownership has 40+ years experience' refers to the owner's career, not the company. BBB profile ID 0633-90561554 under Homestead; principal name sits there if you want a second confirmation. Apollo free lookup: no org record for soflowac.com.",
+  "sources": [
+   "https://www.yelp.com/biz/south-flow-air-conditioning-miami",
+   "https://www.bbb.org/us/fl/homestead/profile/air-conditioning-contractor/south-flow-air-conditioning-inc-0633-90561554",
+   "https://www.facebook.com/SoFlowAc/",
+   "https://hvacservice.io/fl/miami/south-flow-air-conditioning",
+   "https://findmoldspecialists.com/provider/south-flow-air-conditioning",
+   "https://soflowac.com/contact"
+  ]
+ },
+ {
+  "name": "Panther Air Conditioning & Electric",
+  "phone_status": "confirmed (Yelp listings and iaq.works aggregator summary show (786) 228-8777)",
+  "phone_correct": "(786) 228-8777",
+  "address_status": "confirmed (8901 SW 129th St, Miami, FL 33176 appears in three Yelp listing titles). Cautions: Nextdoor page slug and HomeAdvisor file the business under Homestead, FL, and SW 129th St at SW 89th Ave is a residential-pattern street, so this may be the owners' home rather than a shop; verify on Google Maps. Researcher's zip 33176 is right; the BBB service-area snippet's 33186 is a served zip, not the address",
+  "address_correct": "8901 SW 129th St, Miami, FL 33176",
+  "owner_status": "unverifiable (every snippet says 'founded 2020 by a father-daughter duo' and 'woman owned and operated' but no snippet from Yelp, BBB, Nextdoor or the site gives either name)",
+  "owner_correct": "",
+  "owner_title_correct": "",
+  "independent_status": "no contrary evidence; family-owned father-daughter startup (2020), woman-owned per Yelp. The 2025 Miami HVAC acquisitions search did not name Panther (it named Flow-Tech/Sunny Bliss and Air Around the Clock/Flint Group); no partnership mention",
+  "extra_findings": "Entity-name inconsistency worth knowing before the call: BBB profile and HomeAdvisor say 'Panther Air Conditioning, LLC' while a BBB directory snippet says 'Panther Air Conditioning & Electric, Inc' (possible LLC-to-Inc conversion or rename when the electrical division was added) - confirm on Sunbiz. Three separate Yelp pages exist (panther-air-conditioning-miami-4 updated June 2024 / 27 photos; -miami-6 updated May 2026 / 39 photos; panther-a-c-and-electric-miami updated Jan 2026) = duplicate-listing hygiene problem, a natural talking point. Runs at least three domains: panthermiami.com (main), call.pantherairconditioning.com (tracking/landing) and pantherairconditioning.com (older; Apollo record exists under that domain, first indexed Aug 2021; Apollo free lookup finds nothing for panthermiami.com). Reviews: 4.9/5 with 198 reviews (iaq.works). 25-30+ combined years experience claim is the duo's, not the company's.",
+  "sources": [
+   "https://www.yelp.com/biz/panther-air-conditioning-miami-6",
+   "https://www.yelp.com/biz/panther-air-conditioning-miami-4",
+   "https://www.yelp.com/biz/panther-a-c-and-electric-miami",
+   "https://www.bbb.org/us/fl/miami/profile/air-conditioning-contractor/panther-air-conditioning-llc-0633-90603739",
+   "https://iaq.works/pro/florida/miami/panther-air-conditioning-and-electric/",
+   "https://nextdoor.com/pages/panther-air-conditioning-homestead-fl/",
+   "https://www.homeadvisor.com/rated.Interpro.90579173.html",
+   "https://call.pantherairconditioning.com/",
+   "https://www.panthermiami.com/"
+  ]
+ },
+ {
+  "name": "TemPros Air Conditioning & Heating Inc",
+  "phone_status": "unverifiable independently (305-609-5132 appears consistently, but the only snippet carrying it is a mixed summary of company-site, BBB, Nextdoor, Facebook and cityof.com results and does not attribute the number to any specific third-party listing)",
+  "phone_correct": "305-609-5132 (as listed; not attributable to a third-party listing in snippets)",
+  "address_status": "unverifiable (no street address in any snippet; BBB profile filed under Miami; Nextdoor says Miami, FL; site has Kendall, Homestead and Miami Beach service pages)",
+  "address_correct": "",
+  "owner_status": "partially confirmed, first name only ('Customers praise owner Jody' in the review summary, likely Nextdoor/Facebook reviews; site about-us: male owner, Kendall native, 38, 21 years in HVAC). Surname not published anywhere in the captured snippets; BBB principal not seen",
+  "owner_correct": "Jody (first name only; surname unknown)",
+  "owner_title_correct": "Owner",
+  "independent_status": "no contrary evidence; site and directory snippets say family-owned, owner-operated; no acquisition or partnership mention",
+  "extra_findings": "Second-weakest Miami record: no street address and phone not independently attributed, so check the number on Google Maps before dialing. BBB profile exists (ID 0633-92040331, Miami) and would carry the principal's full name and address if accessible. Two separate Nextdoor pages (duplicate listing). Facebook @TemProsAir; cityof.com directory entry. Reviews praise same-day and late-night response and 'free first visits'; no review count surfaced on any platform. Many SEO city pages but no visible review widget. Apollo free lookup: no org record for temprosair.com.",
+  "sources": [
+   "https://www.bbb.org/us/fl/miami/profile/air-conditioning-contractor/tempros-air-conditioning-heating-inc-0633-92040331",
+   "https://nextdoor.com/pages/tempros-air-conditioning-heating-inc-miami-fl/",
+   "https://us.nextdoor.com/pages/tempros-air-conditioning-heating-inc-miami-fl-1/",
+   "https://www.facebook.com/TemProsAir/",
+   "https://www.cityof.com/fl/miami/tempros-air-conditioning-heating-inc-2785781",
+   "https://temprosair.com/about-us/"
+  ]
+ },
+ {
+  "name": "Immanuel Air Conditioning Inc",
+  "phone_status": "confirmed ((305) 969-9331 on local.yahoo.com and Yelp listing per summary; also on company contact page)",
+  "phone_correct": "(305) 969-9331",
+  "address_status": "city/zip confirmed, street unverifiable (Yelp and Yahoo list only 'Cutler Bay, FL 33189'; Yelp hides the street, which usually means a service-area business run from home; BBB profile filed under Miami)",
+  "address_correct": "Cutler Bay, FL 33189 (street not published)",
+  "owner_status": "confirmed (BBB-style wording 'Mr. Pedro Castaneda (President), with Fatima Castaneda as Vice President' from the result set that included the BBB profile; corroborated by Porch reviews that name 'Pedro' as the one doing the work)",
+  "owner_correct": "Pedro Castaneda (VP: Fatima Castaneda)",
+  "owner_title_correct": "President",
+  "independent_status": "no contrary evidence; husband-and-wife family-owned since 2007; no acquisition or partnership mention",
+  "extra_findings": "Hours matter for the call: Mon-Fri 8:00am-6:00pm, Sat 8:00am-4:00pm, closed Sunday. Reviews: Yelp 5.0 (8 reviews, listing updated Nov 2025, 31 photos); Porch ~121 reviews at 4.97-5.0; review text calls Pedro 'kind, honest, will go out of his way'. Owner-does-the-work profile (small crew). Also listed on swivl.tech. '20+ years experience' claim vs established 2007 is consistent. BBB profile ID 0633-90084375. Apollo free lookup: no org record for immanuelairconditioning.com.",
+  "sources": [
+   "https://www.bbb.org/us/fl/miami/profile/air-conditioning-contractor/immanuel-air-conditioning-inc-0633-90084375",
+   "https://www.yelp.com/biz/immanuel-air-conditioning-cutler-bay-3",
+   "https://local.yahoo.com/info-151327560-immanuel-air-conditioning-cutler-bay/",
+   "https://pro.porch.com/miami-fl/hvac-contractors/immanuel-air-conditioning-inc/pp",
+   "https://swivl.tech/pro/fl-immanuel-air-conditioning-inc",
+   "https://immanuelairconditioning.com/contact-us/"
+  ]
+ },
+ {
+  "name": "Hi-Tech Air Service",
+  "phone_status": "confirmed ((305) 969-2600 on Yelp, Yahoo Local, YP.com and Birdeye per summary, plus company site)",
+  "phone_correct": "(305) 969-2600",
+  "address_status": "confirmed (13339 SW 88th Ave, Miami, FL 33176 appears in the Yelp listing title and in the Yahoo/YP summary). Caution: SW 88th Ave at SW 133rd St is a residential-pattern street on the Pinecrest/Kendall line, so this may be a home-based office; confirm on Google Maps",
+  "address_correct": "13339 SW 88th Ave, Miami, FL 33176",
+  "owner_status": "plausible but single-source: one summary line says 'According to the Pinecrest license board, the business is owned by John Moore' (likely a BuildZoom license or Village of Pinecrest business-tax record); not corroborated by BBB, Yelp or the company site in any snippet",
+  "owner_correct": "John Moore (single-source; confirm via Sunbiz/DBPR before using on the call)",
+  "owner_title_correct": "Owner",
+  "independent_status": "no contrary evidence; family owned and operated since 1978 per site and directories; no acquisition or partnership mention. Apollo free lookup confirms org record 'Hi-Tech Air Service' at hi-techairservice.com",
+  "extra_findings": "Best live opener in the list: ZipRecruiter shows Hi Tech Air Service hiring a Dispatcher ($18-25/hr) and an HVAC Apprentice/Helper/Maintenance Technician in Miami, i.e., active office/dispatch growing pains. Reviews: Birdeye 4.0 (27 reviews) and 4.8 (4) on another platform; recurring complaints about pricing, technicians arriving at the wrong address and delayed service (dispatch/scheduling weakness). Yelp listing updated Aug 2026 (21 photos). Residential focus including new construction; serves Pinecrest, Palmetto Bay, Cutler Bay, Coral Gables, Kendall, South Miami. Also on BuildZoom, experience.com and reputablebusinesses.com. Name appears both as 'Hi-Tech' and 'Hi Tech' across listings.",
+  "sources": [
+   "https://www.yelp.com/biz/hi-tech-air-service-miami",
+   "https://reviews.birdeye.com/hi-tech-air-service-148896078104712",
+   "https://www.yellowpages.com/miami-fl/hi-tech-air-service",
+   "https://local.yahoo.com/info-14167848-hi-tech-air-service-miami/",
+   "https://www.buildzoom.com/contractor/hi-tech-air-service",
+   "https://www.experience.com/reviews/hi-tech-air-service-23073521",
+   "https://www.reputablebusinesses.com/323119/hi-tech-air-service",
+   "https://www.ziprecruiter.com/Jobs/Hvac-Dispatcher/--in-Florida",
+   "https://hi-techairservice.com/contact-us/"
+  ]
  }
 ]
